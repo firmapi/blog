@@ -6,5 +6,6 @@ baseurl: ""
 url: "http://yourdomain.com"
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']

@@ -1,2 +1,1 @@
 _site
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
