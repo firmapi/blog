@@ -1,15 +1,53 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<div class="container home-body">
+  <div class="row">
+    <div class="col-md-2">
+      <aside class="infos-article">
+        <img class="author-picture" src="{{ page.gravatar }}" alt="{{ page.author }}" />
+        <br/><br/>
+        <p><strong>{{ page.author }}</strong></p>
+        <p><a href="https://twitter.com/{{ page.author_twitter }}" target="_blank">@{{ page.author_twitter }}</a></p>
+        <hr>
+        <div class="informations-aside">
+          <p><a class="comments-link" href="{{ page.url }}#disqus_thread">Commentaires</a></p>
+        </div>
+      </aside>
+    </div>
+    <div class="col-md-10">
+      <div class="article-col">
+        <h1 class="article-title">{{ page.title }}</h1>
+        <div class="share-buttons">
+          <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}','Partager sur Facebook','menubar=no, status=no, scrollbars=no, menubar=no, width=520, height=570');" id="facebook-btn" class="btn btn-fb social-btn"><i class="fa fa-facebook"></i> Partager sur Facebook</a>
+          <a href="#" onclick="window.open('https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&related={{ page.author_twitter }}','Partager sur Twitter','menubar=no, status=no, scrollbars=no, menubar=no, width=520, height=570');" id="twitter-btn" class="btn btn-twitter social-btn"><i class="fa fa-twitter"></i> Partager sur Twitter</a>
+          <a href="#" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ CGI::escape(page.title) }}&summary={{ CGI::escape(page.description) }}&source={{ CGI::escape(site.owner.name) }}', 'Partager sur LinkedIn','menubar=no, status=no, scrollbars=no, menubar=no, width=520, height=570');" id="linkedin-btn" class="btn btn-linkedin social-btn"><i class="fa fa-linkedin"></i> Partager sur LinkedIn</a>
+        </div>
+        <img class="article-image img-responsive" src="{{ page.image }}" alt="{{ page.title }}" />
+        <article class="article-body">
+          {{ content }}
+          <hr>
+          <p class="article-date">Article publié le {{ page.date | date: "%m/%-d/%Y" }} par {{ page.author }}</p>
+        </article>
+        <div class="article-cta">
+          <p>Créez votre fichier de prospection en quelques clics sur MesProspects.net</p>
+          <a class="btn btn-cta">Créer mon fichier</a>
+        </div>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'mesprospects'; // required: replace example with your forum shortname
 
-  <article class="post-content">
-  {{ content }}
-  </article>
-
-</div>
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          </script>
+        </div>
+      </div>
+    </div>
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+  </div>

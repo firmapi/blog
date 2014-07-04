@@ -1,20 +1,34 @@
 ---
 layout: default
+
+title: "Blog prospection B2B et développement commercial - MesProspects.net"
 ---
 
-<div class="home">
-
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="container home-body">
+  {% for post in site.posts %}
+  <div class="row">
+    <div class="col-md-2">
+      <aside class="infos-article">
+        <img class="author-picture" src="{{ post.gravatar }}" alt="{{ post.author }}" />
+        <br/><br/>
+        <p><strong>{{ post.author }}</strong></p>
+        <p><a href="https://twitter.com/{{ post.author_twitter }}" target="_blank">@{{ post.author_twitter }}</a></p>
+        <hr>
+        <div class="informations-aside">
+          <p><a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
+        </div>
+      </aside>
+    </div>
+    <div class="col-md-10">
+      <div class="article-col">
+        <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <article class="article-body">
+          {{ post.content | strip_html | truncate: 600 }}
+        </article>
+      </div>
+    </div>
+  </div>
+  <hr class="articles-separator">
+  {% endfor %}
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 </div>

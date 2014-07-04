@@ -2,8 +2,7 @@
 layout: post
 title: "Voici le nouveau blog de MesProspects.net"
 description: "Voici la description de l'article de MesProspects.net"
-date: 2014-06-23
-image: https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpa1/t39.2178-6/851571_222487101208456_212772916_n.png
+date:   2014-06-23 17:19:28
 
 author: François Grante
 author_twitter: FGrante
