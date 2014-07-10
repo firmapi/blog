@@ -222,6 +222,15 @@ ARTICLE
 
 }
 
+h2 {
+  margin: 2em 0 1em;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+}
+
 /*
 FOOTER
 ========================
