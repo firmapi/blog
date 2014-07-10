@@ -15,7 +15,7 @@ Sans le savoir, tout le monde a déjà une liste d'emails à utiliser pour déve
 
 Voici comment envoyer un emails à tous vos contacts professionnels en quelques minutes.
 
-## Etape 1 : récupérer vos contacts sur Linkedin
+## Etape 1 : récupérez vos contacts sur Linkedin
 
 Obtenir les adresses email de vos contacts est curieusement très simple. Rendez-vous dans l'onglet "Réseau" puis cliquez en bas à gauche sur "Exporter vos relation".
 
@@ -23,7 +23,7 @@ Obtenir les adresses email de vos contacts est curieusement très simple. Rendez
 
 Linkedin vous propose de télécharger au format CSV et vous obtenez ainsi un fichier contenant un certain nombre d'informations sur vos contacts (nom, prénom, email, poste...).
 
-## Etape 2 : envoyer un l'email sur Mailchimp
+## Etape 2 : envoyez un email sur Mailchimp
 
 Pour envoyer un email à tout le monde, je vous recommande d'utiliser gratuitement par <a href="http://mailchimp.com/" target="_blank">Mailchimp</a> qui fera très bien le boulot. Commencez par créer une nouvelle liste et importez le CSV obtenu sur Linkedin.
 

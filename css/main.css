@@ -193,7 +193,7 @@ ARTICLE
 .article-body {
   font-size: 20px;
   line-height: 28px;
-  margin-top: 30px;
+  margin-top: -5px;
 }
 
 .article-body p {
@@ -218,15 +218,23 @@ ARTICLE
   background-color: #f8f8f8;
 }
 
+.article-description {
+  color: #999;
+}
+
 .article-image {
 
+}
+
+h1 {
+  margin-bottom: 0.6em;
 }
 
 h2 {
   margin: 2em 0 1em;
 }
 
-img {
+.article-col img {
   display: block;
   margin: 30px auto;
 }
