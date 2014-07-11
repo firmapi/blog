@@ -13,19 +13,19 @@ gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=
 
 Sans le savoir, tout le monde a déjà une liste d'emails à utiliser pour développer son activité commerciale. Où ça ? Tout simplement sur Linkedin.
 
-Voici comment envoyer un emails à tous vos contacts professionnels en quelques minutes.
+Voici comment envoyer un email à tous vos contacts professionnels en quelques minutes.
 
 ## Etape 1 : récupérez vos contacts sur Linkedin
 
-Obtenir les adresses email de vos contacts est curieusement très simple. Rendez-vous dans l'onglet "Réseau" puis cliquez en bas à gauche sur "Exporter vos relation".
+Obtenir les adresses email de vos contacts est curieusement très simple. Rendez-vous dans l'onglet "Réseau" puis cliquez en bas à gauche sur "Exporter vos relations".
 
 <img src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/export_contacts_linkedin.png" alt="Exporter ses contacts Linkedin" />
 
-Linkedin vous propose de télécharger au format CSV et vous obtenez ainsi un fichier contenant un certain nombre d'informations sur vos contacts (nom, prénom, email, poste...).
+Linkedin vous propose de télécharger au format CSV et vous obtenez ainsi un fichier contenant un certain nombre d'informations sur vos contacts (nom, prénom, email, poste...etc.).
 
 ## Etape 2 : envoyez un email sur Mailchimp
 
-Pour envoyer un email à tout le monde, je vous recommande d'utiliser gratuitement par <a href="http://mailchimp.com/" target="_blank">Mailchimp</a> qui fera très bien le boulot. Commencez par créer une nouvelle liste et importez le CSV obtenu sur Linkedin.
+Pour envoyer un email à tout le monde, je vous recommande d'utiliser gratuitement <a href="http://mailchimp.com/" target="_blank">Mailchimp</a> qui fera très bien le boulot. Commencez par créer une nouvelle liste et importez le CSV obtenu sur Linkedin.
 
 <img src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/import_csv_mailchimp.png" alt="Importer une liste d'emails sur Mailchimp" />
 
