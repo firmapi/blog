@@ -7,5 +7,5 @@ url: "http://blog.mesprospects.net"
 
 # Build settings
 # markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 exclude: ["vendor"]
