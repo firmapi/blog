@@ -82,34 +82,44 @@ CHANGE LA LARGEUR DE CHANGEMENT DE MENU
 ========================
 */
 
-@media (max-width: 990px) {
+@media (max-width: 1200px) {
     .navbar-header {
         float: none;
     }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
     .navbar-toggle {
-        margin-top: 12px;
         display: block;
+        margin-top: 14px;
     }
     .navbar-collapse {
         border-top: 1px solid transparent;
         box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
     }
+    .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
     .navbar-collapse.collapse {
         display: none!important;
     }
     .navbar-nav {
         float: none!important;
-        margin: 7.5px -15px;
-    }
-    .navbar-nav>li {
+    margin-top: 7.5px;
+  }
+  .navbar-nav>li {
         float: none;
+        border: none;
     }
     .navbar-nav>li>a {
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
+    .collapse.in{
+      display:block !important;
+  }
 }
-
 
 /*
 INFOS ARTICLE
@@ -212,10 +222,6 @@ ARTICLE
 ========================
 */
 
-.article-col {
-  margin-left: 30px;
-}
-
 .article-title a {
   color: black;
 }
@@ -257,10 +263,6 @@ ARTICLE
   color: #999;
 }
 
-.article-image {
-
-}
-
 h1 {
   margin-bottom: 0.6em;
 }
@@ -273,6 +275,11 @@ h2 {
   display: block;
   margin: 30px auto;
 }
+
+.article-image {
+  margin: 10px 0 20px !important;
+}
+
 
 /*
 FOOTER
