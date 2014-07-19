@@ -32,16 +32,16 @@ Ces extensions vous permettent de connaître :
 **Pas de notification de consultation au bout d'un certain temps**
 
 * Peut-être faut-il patienter encore un peu avant de relancer : est-ce par exemple une période de vacances ?
-* Peut-être faut-il essayer un autre interlocuteur dans l'entreprise ?
+* Peut-être faut-il essayer une autre adresse email dans l'entreprise ?
 * Il reste une probabilité pour que votre destinataire ait quand même lu votre email sans que vous en soyez informé, s'il bloque l'ouverture des images dans ses emails.
 
 **Il y a une seule lecture**
 
-S'il y a une lecture mais pas de réponse, c'est que votre email n'a sans doute pas attiré suffisamment l'attention ou été suffisamment convaincant pour que votre destinataire y donne suite. C'est une information intéressante que va vous permettre d'adapter votre message en testant. Pour la relance, il faudra sans doute modifier votre approche.
+S'il y a une lecture mais pas de réponse, c'est que votre email n'a sans doute pas attiré suffisamment l'attention ou été suffisamment convaincant pour que votre destinataire y donne suite. C'est une information intéressante que va vous permettre d'adapter votre message. Pour la relance, il faudra sans doute modifier votre approche.
 
 **Il y a de nombreuses lectures**
 
-S'il y a de nombreuses lectures, c'est que votre email a fait mouche ! Il se peut même qu'il ait été transféré à d'autres personnes... Dans ce cas, vous pouver relancer sans crainte.
+S'il y a de nombreuses lectures, c'est que votre email a fait mouche ! Il se peut même qu'il ait été transféré à d'autres personnes... Dans ce cas, vous pouvez relancer sans crainte.
 
 ## Comment éviter d'être sois-même traqué ?
 
