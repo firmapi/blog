@@ -8,7 +8,7 @@ image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/message
 author: François Grante
 author_twitter: FGrante
 author_google_plus: https://plus.google.com/106867543078418506526
-gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=40&r=G
+gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
 Sans le savoir, tout le monde a déjà une liste d'emails à utiliser pour développer son activité commerciale. Où ça ? Tout simplement sur Linkedin.
