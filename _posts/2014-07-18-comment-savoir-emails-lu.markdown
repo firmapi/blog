@@ -11,7 +11,7 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
-Il souvent assez difficile de savoir comment réagir lorsqu'on ne reçoit pas de réponse à un email. Faut-il relancer ? Quand ? Toujours au même destinataire ?
+Il est souvent assez difficile de savoir comment réagir lorsqu'on ne reçoit pas de réponse à un email. Faut-il relancer ? Quand ? Toujours au même destinataire ?
 
 Être informé de l'ouverture des emails que vous envoyez est une donnée précieuse qui va vous permettre d'adapter votre prise de contact.
 
