@@ -35,4 +35,4 @@ Une fois les contacts importés dans votre liste, il ne reste plus qu'à réalis
 
 <img class="img-rounded img-responsive" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/exemple_email.png" alt="Exemple d'email" />
 
-A vous de jouer !
+A vous de jouer ! Je compte sur vous pour en faire bon usage !
