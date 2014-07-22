@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trouver l'adresse email de n'importe qui grâce aux moteurs de recherche"
-description: "Avec un peu d'astuce, vous pouvez obtenir l'adresse email d'à peu près n'importe qui."
+description: "Avec un peu d'astuce, vous pouvez obtenir l'adresse email d'à peu près n'importe qui en quelques minutes."
 date: 2014-07-21
 image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/google_search.png
 

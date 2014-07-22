@@ -6,34 +6,19 @@ title: "Blog prospection et vente B2B"
 
 <div class="container home-body">
   {% for post in site.posts %}
-  <div class="row">
-    <div class="col-md-2 visible-lg visible-md">
-      <aside class="infos-article">
-        <img class="author-picture" src="{{ post.gravatar }}" alt="{{ post.author }}" />
-        <br/><br/>
-        <p><strong>{{ post.author }}</strong></p>
-        <p><a href="https://twitter.com/{{ post.author_twitter }}" target="_blank">@{{ post.author_twitter }}</a></p>
-        <hr>
-        <div class="informations-aside">
-          <p><a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
+  <div class="article-col">
+    <article class="article-body">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="{{ post.image }}" alt="{{ post.title }}" class="img-responsive img-rounded" />
         </div>
-      </aside>
-    </div>
-    <div class="col-md-10">
-      <div class="article-col">
-        <article class="article-body">
-          <div class="row">
-            <div class="col-md-4">
-              <img src="{{ post.image }}" alt="{{ post.title }}" class="img-responsive img-rounded" />
-            </div>
-            <div class="col-md-8">
-              <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-              <p  class="article-description">{{ post.description }}</p>
-            </div>
-          </div>
-        </article>
+        <div class="col-md-7 col-md-offset-1 index-title">
+          <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+          <p  class="article-description">{{ post.description }}</p>
+          <p class="article-date">{{ post.author }} | {{ post.date | date: "%-d/%m/%Y" }} | <a class="comments-link" href="{{ page.url }}#disqus_thread">Commentaires</a></p>
+        </div>
       </div>
-    </div>
+    </article>
   </div>
   <hr class="articles-separator">
   {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trouver l'adresse email de n'importe qui grâce à Rapportive"
-description: "Avec un peu d'astuce, vous pouvez obtenir l'adresse email d'à peu près n'importe qui."
+description: "Connaissez-nous Rapportive ? Voici comment l'utiliser pour retrouver n'importe quelle adresse email."
 date: 2014-07-21
 image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/rapportive_email.jpg
 

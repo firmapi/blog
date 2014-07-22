@@ -231,6 +231,10 @@ ARTICLE
   text-decoration: none;
 }
 
+.article-title-page {
+  font-size: 42px;
+}
+
 .article-body {
   font-size: 20px;
   line-height: 28px;
@@ -260,7 +264,7 @@ ARTICLE
 }
 
 .article-description {
-  color: #999;
+  color: #616161;
 }
 
 h1 {
@@ -273,11 +277,19 @@ h2 {
 
 .article-col img {
   display: block;
-  margin: 30px auto;
+  margin: 50px auto;
 }
 
 .article-image {
-  margin: 10px 0 20px !important;
+  margin: 10px 0 50px !important;
+}
+
+.article-end-line {
+  margin-top: 30px;
+}
+
+.index-title {
+  margin-top: 32px;
 }
 
 
