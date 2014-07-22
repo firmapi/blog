@@ -24,6 +24,8 @@ Chaque entreprise a une règle de constitution des emails comme par exemple "pre
 
 Pour trouver une adresse email de l'entreprise, les moteurs de recherche vont nous aider. Pour cela, tapez "\*@nomdelentreprise.com" (avec les apostrophes) sur Google ou Bing. Essayez les deux moteurs de recherche, l'un est parfois plus pertinent que l'autre.
 
+Si vous n'avez pas de résultat, tentez la requête "email * * nomdedelentreprise.com".
+
 <img class="img-responsive" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/recherche_email_google.png" alt="Recherche d'adresse email sur Google" />
 
 Pour analyser rapidement votre page de recherche, je vous recommande de changer vos <a href="https://www.google.fr/preferences" target="_blank">paramètres Google</a> pour afficher 100 résultats par page.
