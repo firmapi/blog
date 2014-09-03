@@ -11,9 +11,7 @@ author_google_plus: https://plus.google.com/101945414886534617277
 gravatar: https://secure.gravatar.com/avatar/28470def10eda769aea68284c919493f?d=mm&s=40&r=G
 ---
 
-En consultant un profil Linkedin, **le site enregistre votre visite afin d'avertire par la suite la personne concernée**. Ce détail n'est toutefois pas recherché de tous et il est parfois préférable de pouvoir garder un certain degré d'anonymat. Un simple paramètre caché dans vos préférences permet de changer le comportement de Linkedin.
-
-## La procédure à suivre
+Une des fonctionnalités très prisées sur LinkedIn est de pouvoir voir les personnes ayant consulté votre profil LinkedIn. Pourtant, on aimerait parfois pouvoir naviguer anonymement sans que chaque profil visité en soit averti. Un simple paramètrage de votre compte LinkedIn permet de désactiver ce tracking.
 
 Accédez aux informations de votre compte :
 
@@ -27,6 +25,6 @@ Sélectionnez le niveau de vie privée souhaité :
 
 <img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/consulter-anonymement-linkedin/img2.jpg" alt="Naviagtion anonyme sur Linkedin" width="600" />
 
-## Faites vous remarquer
+*Note* : lorsque vous activez ce niveau d'anonymat, vous ne pouvez en contrapartie pas consulter les personnes ayant visité votre profil.
 
-**Naviguer anonymement réduit votre visibilité sur Linkedin**. En accédant à un profil, vous générez un peu de trafic vers le votre. C'est l'occasion d'attirer le regard sur vous et de ne pas vous faire oublier de certains prospects !
+Si un peu de discrétion est parfois nécessaire, il est aussi parfois très intéressant de laisser les membres voir vos visites. Dans une démarche de prospection, cela peut un très bon moyen de se faire remarquer une première fois. A activer donc en fonction de votre usage.
