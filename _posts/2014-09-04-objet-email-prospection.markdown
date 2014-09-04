@@ -21,7 +21,7 @@ Voici comment bien choisir votre objet et faire décoller votre taux d'ouverture
 
 L'erreur la plus courante dans les email de prospection est d'annoncer tout de suite la couleur dans l'objet (par exemple: "Découvrez la nouvelle gamme d'utilitaires Renault", "Atteignez les premières places sur Google"). Si votre destinataire comprend tout de suite dans le titre que vous le démarchez, il y a de fortes chances pour qu'il ne l'ouvre pas.
 
-Au contraire, votre email doit être jugé digne d'intérêt et attiser la curiosité. Une astuce peut être par exemple d'intituler votre email "Idée d'amélioration pour {{Entreprise/Produit}}" qui sera lu à coup sûr par votre destinataire avide de feedbacks ! Il ne vous reste alors plus qu'à discuter les problématiques de votre prospect et lui proposer subtilement vos services.
+Au contraire, votre email doit être jugé digne d'intérêt et attiser la curiosité. Une astuce peut être par exemple d'intituler votre email "Idée d'amélioration pour %Entreprise/Produit%" qui sera lu à coup sûr par votre destinataire avide de feedbacks ! Il ne vous reste alors plus qu'à discuter les problématiques de votre prospect et lui proposer subtilement vos services.
 
 De manière générale, parlez toujours des problèmes rencontrées par votre cible et non de votre solution.
 
