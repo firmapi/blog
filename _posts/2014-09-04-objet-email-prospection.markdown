@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Comment trouver l'objet parfait pour vos emails de prospection"
-description: "Vous le savez : l'object est la chose la plus importante dans votre emails. Voici 5 question pour ne efficacité optimale."
-date: 2014-07-21
+description: "Vous le savez : l'object est l'élément la plus important dans vos emails. Voici comment écrire vos objets pour une efficacité optimale."
+date: 2014-09-04
 image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/objet-email-prospection.jpg
 
 author: François Grante
@@ -11,9 +11,9 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
-C'est bon. Vous avez votre <a href="http://www.mesprospects.net/">fichier d'emailing</a> et êtes près à prospecter. Il est temps de préparer vos emails, manuels ou automatiques. Vous avez bien conscience du rôle primordial de l'objet de votre email.
+C'est bon. Vous avez votre <a href="http://www.mesprospects.net/">fichier d'emailing</a> et êtes près à prospecter. Il est temps de préparer vos emails, manuels ou automatiques. Vous avez bien conscience du rôle primordial de l'objet de votre email mais je savez pas quoi mettre en avant.
 
-En effet, c'est essentiellement l'objet de l'email qui va déterminer votre taux d'ouverture. L'objet de votre email de prospection a pour objectif d'annoncer le sujet de votre prise de contact, et surtout faire cliquer votre destinataire.
+En effet, c'est essentiellement l'objet de l'email qui va déterminer votre taux d'ouverture. L'objet de votre email de prospection a pour but d'annoncer le sujet de votre prise de contact, et surtout faire cliquer votre destinataire.
 
 Voici comment bien choisir votre objet et faire décoller votre taux d'ouverture.
 
@@ -24,6 +24,10 @@ L'erreur la plus courante dans les email de prospection est d'annoncer tout de s
 Au contraire, votre email doit être jugé digne d'intérêt et attiser la curiosité. Une astuce peut être par exemple d'intituler votre email "Idée d'amélioration pour {{Entreprise/Produit}}" qui sera lu à coup sûr par votre destinataire avide de feedbacks ! Il ne vous reste alors plus qu'à discuter les problématiques de votre prospect et lui proposer subtilement vos services.
 
 De manière générale, parlez toujours des problèmes rencontrées par votre cible et non de votre solution.
+
+# Faites court
+
+Plus votre objet d'email est court, plus la curiosité sera grande. Il peut même être très intéressant d'écrire votre objet de la même façon que vous le feriez en écrivant à vos collègues ou proches, avec un intitulé assez vague. Si le destinaire ne sait pas encore exactement ce que vous avez à lui dire, il ne pourra pas se permettre de supprimer votre email sans le lire.
 
 # Personnalisez si possible
 
