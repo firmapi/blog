@@ -31,10 +31,10 @@ Dans ce cas, nous spécifions que seules les pages de Linkedin nous intéressent
 
 De solutions s’offrent directement à vous. Elles sont utilisables séparément ou conjointement :
 
-1. Vous pouvez vous connecter en navigation privée. Cela empêche Linkedin de se souvenir de vous. Cette solution marche dans la majorité des cas :
+* Vous pouvez vous connecter en navigation privée. Cela empêche Linkedin de se souvenir de vous. Cette solution marche dans la majorité des cas :
 
 <img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img3.jpg" alt="Préférences Linkedin" width="700" />
 
-2. Google enregistre toutes les pages sur ses serveurs. Il les met ensuite à disposition. Cette méthode permet donc de complètement court-circuiter Linkedin (parfois certaines pages ne sont toutefois pas proposées en cache) :
+* Google enregistre toutes les pages sur ses serveurs. Il les met ensuite à disposition. Cette méthode permet donc de complètement court-circuiter Linkedin (parfois certaines pages ne sont toutefois pas proposées en cache) :
 
 <img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img4.jpg" alt="Préférences Linkedin" width="650" />
