@@ -4,6 +4,8 @@ title: "Gmail : Comment savoir si vos emails sont lus ?"
 description: "Traquez les ouvertures de vos emails pour mieux mener votre démarche de prospection."
 date: 2014-07-18
 image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/gmail_ipad.jpg
+tag: "prospection"
+tag_pretty_name: "Prospection"
 
 author: François Grante
 author_twitter: FGrante

@@ -9,3 +9,8 @@ url: http://blog.firmapi.com
 # markdown: kramdown
 permalink: /:title/
 exclude: ["vendor"]
+
+# Pour les tags
+tag_page_layout: tag
+tag_page_dir: category
+tag_permalink_style: pretty

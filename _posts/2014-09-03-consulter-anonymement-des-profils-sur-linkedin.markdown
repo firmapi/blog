@@ -4,6 +4,8 @@ title: "Comment consulter anonymement les profils Linkedin"
 description: "Accédez aux profils de prospects sur Linkedin sans que le site leur affiche votre présence."
 date: 2014-09-03
 image: http://prospection-assets.s3.amazonaws.com/images/blog/consulter-anonymement-linkedin/headline-picture.jpg
+tag: "prospection"
+tag_pretty_name: "Prospection"
 
 author: Antoine Finkelstein
 author_twitter: AntoineFink
