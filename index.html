@@ -15,7 +15,7 @@ title: "Blog prospection et vente B2B"
         <div class="col-md-7 col-md-offset-1 index-title">
           <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
           <p  class="article-description">{{ post.description }}</p>
-          <p class="article-date">{{ post.author }} | {{ post.date | date: "%-d/%m/%Y" }} | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
+          <p class="article-date">{{ post.author }} | {{ post.date | date: "%-d/%m/%Y" }} | <a class="comments-link" href="/category/{{ post.tag }}" title="Liste des articles de {{ post.tag_pretty_name }}">{{ post.tag_pretty_name }}</a> | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
         </div>
       </div>
     </article>
