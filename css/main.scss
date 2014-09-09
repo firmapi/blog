@@ -132,6 +132,35 @@ CHANGE LA LARGEUR DE CHANGEMENT DE MENU
 }
 
 /*
+Navigation catégories
+========================
+*/
+
+.naviation-categories {
+  margin-top: 30px;
+
+  & > div {
+    background-color: #eee;
+    border-radius: 7px;
+  }
+
+  & > p {
+    color: #A8A8A8;
+    text-align: center;
+  }
+
+  a {
+    border-radius: 7px !important;
+    color: #515151;
+    font-size: 15px;
+
+    &:hover {
+      background-color: rgb(232, 232, 232) !important;
+    }
+  }
+}
+
+/*
 INFOS ARTICLE
 ========================
 */
