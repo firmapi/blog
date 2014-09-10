@@ -4,6 +4,7 @@ title: "Liste des articles | Blog de Firmapi"
 ---
 
 <div class="container home-body">
+  <h1 id="category_name">{{ page.tag }}</h1>
   {% for post in site.posts %}
   {% for tag in post.tags %}
   {% if tag == page.tag %}
@@ -16,7 +17,7 @@ title: "Liste des articles | Blog de Firmapi"
         <div class="col-md-7 col-md-offset-1 index-title">
           <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
           <p  class="article-description">{{ post.description }}</p>
-          <p class="article-date">{{ post.author }} | {{ post.date | date: "%d/%m/%Y" }} | <a class="comments-link" href="/category/{{ post.tag }}" title="Liste des articles de {{ post.tag_pretty_name }}">{{ post.tag_pretty_name }}</a> | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
+          <p class="article-date">{{ post.author }} | {{ post.date | date: "%d/%m/%Y" }} | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
         </div>
       </div>
     </article>
@@ -26,4 +27,8 @@ title: "Liste des articles | Blog de Firmapi"
   {% endfor %}
   {% endfor %}
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+  <script>
+    function capitaliseFirstLetter(string) { return string.charAt(0).toUpperCase() + string.slice(1); }
+    document.getElementById('category_name').innerHTML = capitaliseFirstLetter(document.getElementById('category_name').innerHTML);
+  </script>
 </div>

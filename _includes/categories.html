@@ -1,0 +1,28 @@
+<div class="navigation-categories-container">
+  <div class="container">
+    <div class="navigation-categories">
+      <div>
+        <ul class="nav nav-pills nav-justified">
+
+          {% if page.tag == 'prospection' || page.tag == 'prospection' %}
+            <li><a href="/category/prospection" class="active"><strong><i class="fa fa-briefcase"></i> Prospection</strong></a></li>
+          {% else %}
+            <li><a href="/category/prospection"><strong><i class="fa fa-briefcase"></i> Prospection</strong></a></li>
+          {% endif %}
+
+          {% if page.tag == 'developpement' || page.tag == 'developpement' %}
+            <li><a href="#" class="active"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
+          {% else %}
+            <li><a href="#"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
+          {% endif %}
+
+          {% if page.tag == 'firmapi' || page.tag == 'firmapi' %}
+            <li><a href="#" class="active"><strong><i class="fa fa-user"></i> Firmapi</strong></a></li>
+          {% else %}
+            <li><a href="#"><strong><i class="fa fa-user"></i> Firmapi</strong></a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
