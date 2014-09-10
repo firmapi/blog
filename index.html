@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Blog prospection et vente B2B"
+title: "Blog prospection et vente BtoB"
 ---
 
 <div class="container">
@@ -10,7 +10,7 @@ title: "Blog prospection et vente B2B"
     <div>
       <ul class="nav nav-pills nav-justified">
         <li><a href="/category/prospection"><strong><i class="fa fa-bar-chart"></i> Prospection</strong></a></li>
-        <li><a href="#"><strong><i class="fa fa-bolt"></i> Technique</strong></a></li>
+        <li><a href="#"><strong><i class="fa fa-bolt"></i> Développement</strong></a></li>
         <li><a href="#"><strong><i class="fa fa-cogs"></i> Firmapi</strong></a></li>
       </ul>
     </div>
@@ -28,7 +28,7 @@ title: "Blog prospection et vente B2B"
         <div class="col-md-7 col-md-offset-1 index-title">
           <h1 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
           <p  class="article-description">{{ post.description }}</p>
-          <p class="article-date">{{ post.author }} | {{ post.date | date: "%-d/%m/%Y" }} | <a class="comments-link" href="/category/{{ post.tag }}" title="Liste des articles de {{ post.tag_pretty_name }}">{{ post.tag_pretty_name }}</a> | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
+          <p class="article-date">{{ post.author }} | {{ post.date | date: "%d/%m/%Y" }} | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
         </div>
       </div>
     </article>
