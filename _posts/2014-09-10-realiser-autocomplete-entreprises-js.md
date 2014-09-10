@@ -4,8 +4,8 @@ title: "Afficher un autocomplete avec toutes les entreprises Françaises"
 description: "Réaliser en 10 minutes un autocomplete d'entreprises et de leurs information en javascript."
 date: 2014-09-08
 image: https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_tutorial.jpg
-tag: "technique"
-tag_pretty_name: "Technique"
+tag: "developpement"
+tag_pretty_name: "Développement"
 
 author: Antoine Finkelstein
 author_twitter: AntoineFink
@@ -20,19 +20,19 @@ gravatar: https://secure.gravatar.com/avatar/28470def10eda769aea68284c919493f?d=
   </span>
 </div>
 
-### Pré-requis
+## Pré-requis
 
 * Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="https://firmapi.com/api" target="_blank">inscrivant gratuitement</a>.
 * Quelques connaissances en HTML et JavaScript.
 
-### Etape 1 : La base HTML
+## Etape 1 : La base HTML
 
 Je vous propose de simplement copier une base pour le HTML. J'ai utilisé Twitter Bootstrap et quelques lignes de CSS :
 
 * <a href="https://github.com/Firmapi/autocomplete/blob/master/index.html" target="_blank">index.html</a>
 * <a href="https://github.com/Firmapi/autocomplete/blob/master/main.css" target="_blank">main.css</a>
 
-### Etape 2 : Les librairies JS
+## Etape 2 : Les librairies JS
 
 Quelques librairies JavaScript sont nécessaires :
 
@@ -40,7 +40,7 @@ Quelques librairies JavaScript sont nécessaires :
 * <a href="http://handlebarsjs.com/" target="_blank">Handlebars.js</a> gère le template utilisé par chacune des suggestions. Vous pouvez aisément passer à Moustache, Underscore, etc. ;
 * <a href="http://jquery.com/" target="_blank">JQuery</a> simplifie la sélection d'éléments du DOM et réaliser un appel en AJAX pour extraire les données de l'entreprise sélectionnée.
 
-### Etape 3 : Installation de Typeahead.js
+## Etape 3 : Installation de Typeahead.js
 
 Typeahead.js fonctionne avec deux modules très distincts :
 
@@ -49,7 +49,7 @@ Typeahead.js fonctionne avec deux modules très distincts :
 
 <br>
 
-#### Commençons par initialiser Bloodhound :
+### Commençons par initialiser Bloodhound :
 
 <br>
 
@@ -63,7 +63,7 @@ Il est donc nécessaire de prendre les entreprises dans result >> list et par la
 
 <br>
 
-#### Il ne reste plus qu'à se charger du l'UI (interface utilisateur) avec le plugin jQuery :
+### Il ne reste plus qu'à se charger du l'UI (interface utilisateur) avec le plugin jQuery :
 
 <br>
 
@@ -73,12 +73,12 @@ Avec jQuery, on sélectionne l'input qui va devenir un autocomplete. Le moteur B
 
 L'API renvoie en plus du nom de l'entreprise, son SIREN, son code postal et son code NAF. Pour exploiter ces informations, des événements sont déclenchés par Typeahead et en particulier <code>typeahead:selected</code> lorsqu'un résultat est sélectionné. Ici nous appelons la fonction *complete_company(siren)* pour remplir la page mais vous pouvez tout aussi bien enregistrer des champs formulaire pour accélérer la saisie, etc.
 
-### Résultat final
+## Résultat final
 
 <figure class="animated-demo">
 <img src="https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_demo.gif" width="450" class="animated-hover"/>
 </figure>
 
-### Conclusion
+## Conclusion
 
 **En quelques dizaines de minutes vous pouvez ainsi ajouter à votre site un autocomplete parfaitement fonctionnel.** N'oubliez toutefois pas de faire passer toutes les requêtes par votre serveur afin de cacher votre clé API et éviter des abus de la part de vos utilisateurs.

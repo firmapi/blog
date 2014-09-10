@@ -11,16 +11,18 @@
           {% endif %}
 
           {% if page.tag == 'developpement' || page.tag == 'developpement' %}
-            <li><a href="#" class="active"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
+            <li><a href="/category/developpement" class="active"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
           {% else %}
-            <li><a href="#"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
+            <li><a href="/category/developpement"><strong><i class="fa fa-cogs"></i> Développement</strong></a></li>
           {% endif %}
 
+          <div class="hidden">
           {% if page.tag == 'firmapi' || page.tag == 'firmapi' %}
             <li><a href="#" class="active"><strong><i class="fa fa-user"></i> Firmapi</strong></a></li>
           {% else %}
             <li><a href="#"><strong><i class="fa fa-user"></i> Firmapi</strong></a></li>
           {% endif %}
+          </div>
         </ul>
       </div>
     </div>
