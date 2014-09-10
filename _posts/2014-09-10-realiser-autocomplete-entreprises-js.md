@@ -22,7 +22,7 @@ gravatar: https://secure.gravatar.com/avatar/28470def10eda769aea68284c919493f?d=
 
 ### Pré-requis
 
-* Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="#{new_user_registration_path}" target="_blank">inscrivant gratuitement</a>.
+* Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="https://firmapi.com/api" target="_blank">inscrivant gratuitement</a>.
 * Quelques connaissances en HTML et JavaScript.
 
 ### Etape 1 : La base HTML
