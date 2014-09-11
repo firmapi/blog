@@ -25,7 +25,7 @@ Tout cela en utilisant Google Spreadsheet.
 
 Aucune connaissance en programmation n'est requise. Il vous faudra simplement :
 
-* Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="#{new_user_registration_path}" target="_blank">inscrivant gratuitement</a>.
+* Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="https://firmapi.com/api" target="_blank">inscrivant gratuitement</a>.
 * Accéder à la <a href="https://docs.google.com/spreadsheets/d/1E_kQwOixwlgNjwDtvgcbIq5kuk0wLHLjrglZXgBJQOw/edit?usp=sharing" target="_blank">**feuille de calcul du tutoriel**</a> puis l'enregistrer en cliquant sur *Fichier* et *Créer une copie* (nécessaire pour pouvoir éditer le document).
 
 <img src="https://s3-eu-west-1.amazonaws.com/firmapi-uploads/tutorials/google_doc_creer_une_copie.gif" alt="Créer une copie Google Spreadsheet" width="350" class="animated-hover"/>
