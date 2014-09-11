@@ -4,7 +4,7 @@ title: "Afficher un autocomplete avec toutes les entreprises Françaises"
 description: "Réaliser en 10 minutes un autocomplete d'entreprises et de leurs information en javascript."
 date: 2014-09-08
 image: https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_tutorial.jpg
-tag: "developpement"
+tag: "développement"
 tag_pretty_name: "Développement"
 
 author: Antoine Finkelstein
