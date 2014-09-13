@@ -15,7 +15,6 @@ gravatar: https://secure.gravatar.com/avatar/28470def10eda769aea68284c919493f?d=
 
 En essayant de faire des recherches précises sur Linkedin, vous avez sans doute remarqué à quel point le compte premium s'impose rapidement. Heureusement, **une fonctionnalité un peu mise de côté permet de faire des recherches ciblées** et particulièrement pertinentes car centrées autour de formations.
 
-
 ## 1. Accédez à la page d'une école ou université
 
 Les recherches sont centrées liées à des Grandes Écoles ou des universités, sélectionnez donc celle qui vous intéresse (**des alumni ayant suivi la même formation que vous sont généralement plus accessibles**) :
