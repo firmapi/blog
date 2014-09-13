@@ -3,7 +3,7 @@ layout: post
 title: "Trouver l'adresse email de n'importe qui grâce aux moteurs de recherche"
 description: "Avec un peu d'astuce, vous pouvez obtenir l'adresse email d'à peu près n'importe qui en quelques minutes."
 date: 2014-07-21
-image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/google_search.png
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-21/google_search.png
 tag: "prospection"
 tag_pretty_name: "Prospection"
 
@@ -28,7 +28,7 @@ Pour trouver une adresse email de l'entreprise, les moteurs de recherche vont no
 
 Si vous n'avez pas de résultat, tentez la requête "email * * nomdedelentreprise.com".
 
-<img class="img-responsive" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/recherche_email_google.png" alt="Recherche d'adresse email sur Google" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-21/recherche_email_google.png" alt="Recherche d'adresse email sur Google" />
 
 Pour analyser rapidement votre page de recherche, je vous recommande de changer vos <a href="https://www.google.fr/preferences" target="_blank">paramètres Google</a> pour afficher 100 résultats par page.
 
@@ -36,4 +36,4 @@ Pour analyser rapidement votre page de recherche, je vous recommande de changer 
 
 Il ne vous reste plus qu'à deviner l'adresse de votre destinataire dans l'entreprise. Vous pouvez vous assurer que celle-ci fonctionne en utilisant une service tel que <a href="http://mailtester.com/" target="_blank">mailtester.com</a> qui teste la réponse du serveur sur l'adresse email.
 
-Vous n'avez pas réussi à trouver l'adresse email qu'il vous faut ? Essayez <a href="http://blog.mesprospects.net/trouver-adresse-email-personne-rapportive/">cette deuxième méthode</a>.
+Vous n'avez pas réussi à trouver l'adresse email qu'il vous faut ? Essayez <a href="http://blog.firmapi.com/trouver-adresse-email-personne-rapportive/">cette deuxième méthode</a>.

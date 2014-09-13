@@ -2,8 +2,8 @@
 layout: post
 title: "Trouver l'adresse email de n'importe qui grâce à Rapportive"
 description: "Connaissez-nous Rapportive ? Voici comment l'utiliser pour retrouver n'importe quelle adresse email."
-date: 2014-07-21
-image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/rapportive_email.jpg
+date: 2014-07-22
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-22/rapportive_email.jpg
 tag: "prospection"
 tag_pretty_name: "Prospection"
 
@@ -24,12 +24,12 @@ Les adresses emails ont peu de schémas de construction différents. Pour un nom
 
 La première étape de la méthode consite à créer une liste d'emails possibles en fonction de ces trois données. Pour gagner du temps, je vous ai préparé une <a href="https://docs.google.com/spreadsheet/ccc?key=0Ag25ZtrwpSLpdHk0NWR3c2o2YW43TExrNk5fdWttV2c" target="_blank">feuille de calcul Google</a> qui génère une trentaine de possibilités. Pour l'utiliser, ouvrez le document et cliquer sur "Fichier" puis "Créer une copie".
 
-<img class="img-responsive" alt="Trouver l'adresse email de quelqu'un" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/google_sreadsheet_email_rapportive.png" />
+<img class="img-responsive" alt="Trouver l'adresse email de quelqu'un" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-22/google_sreadsheet_email_rapportive.png" />
 
 ## 2. Testez les adresses avec Rapportive
 
 Rapportive charge des informations de n'importe quel adresse email que vous entrez en destinataire. L'astuce est donc simple : copiez votre liste d'emails possibles et collez-la dans le champs destinataire.
 
-<img class="img-responsive" alt="Utilisatiopn de Rapportive pour trouver des adresses email" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/sean_parker_rapportive.png" />
+<img class="img-responsive" alt="Utilisatiopn de Rapportive pour trouver des adresses email" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-22/sean_parker_rapportive.png" />
 
 Survolez chaque adresse email et Rapportive chargera successivement les profils qu'il trouve. Avec une photo et les profils des réseaux sociaux associés, il devient ensuite facile d'identifier la bonne adresse.

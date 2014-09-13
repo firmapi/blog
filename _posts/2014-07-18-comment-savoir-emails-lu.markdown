@@ -3,7 +3,7 @@ layout: post
 title: "Gmail : Comment savoir si vos emails sont lus ?"
 description: "Traquez les ouvertures de vos emails pour mieux mener votre démarche de prospection."
 date: 2014-07-18
-image: https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/gmail_ipad.jpg
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-18/gmail_ipad.jpg
 tag: "prospection"
 tag_pretty_name: "Prospection"
 
@@ -27,7 +27,7 @@ Ces extensions vous permettent de connaître :
 * le lieu d'ouverture
 * Le device : ordinateur de bureau, tablette ou smartphone
 
-<img class="img-responsive" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/suivi_streak.png" alt="Suivi Streak" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-18/suivi_streak.png" alt="Suivi Streak" />
 
 ## Comment réagir en fonction des consultations ?
 
@@ -49,6 +49,6 @@ S'il y a de nombreuses lectures, c'est que votre email a fait mouche ! Il se peu
 
 L'unique moyen de traquer la lecture d'un email est d'introduire une image (souvent d'un pixel, invisible) qui fera un appel à un serveur distant à l'ouverture. C'est ainsi que fonctionnent les extensions présentées dans cet article.
 
-<img class="img-responsive" src="https://s3-eu-west-1.amazonaws.com/prospection-assets/images/blog/stop_tracking_gmail.png" alt="Suivi Streak" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-18/stop_tracking_gmail.png" alt="Suivi Streak" />
 
 Pour éviter d'être traqué, il faut empêcher l'affichage des images par défaut. Dans Gmail, allez dans "Paramètres", dans l'onglet "Général", et cochez "Demander confirmation avant d'afficher des images externes". Ainsi, le tracking ne se fera que lorsque vous autoriserez l'affichage des images.

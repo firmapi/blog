@@ -3,7 +3,7 @@ layout: post
 title: "Accéder au profil et au nom d'une cible en-dehors de son réseau Linkedin"
 description: "Linkedin ne permet pas d'afficher en entier le profil ou le nom d'un utilisateur en dehors de votre réseau. Voici la solution."
 date: 2014-09-08
-image: http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/linkedin-header.jpg
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/linkedin-header.jpg
 tag: "prospection"
 tag_pretty_name: "Prospection"
 
@@ -19,11 +19,11 @@ Heureusement vous pouvez en quelques secondes contourner ce blocage et afficher 
 
 Dans le cas le plus complexe, vous commencerez sans nom (ni même un prénom) et sans photo. Vos seuls indices seront le titre du profil et la localisation :
 
-<img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img1.jpg" alt="Préférences Linkedin" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/img1.jpg" alt="Préférences Linkedin" />
 
 Heureusement, afin d’accroître sa présence en ligne, Linkedin permet aux moteurs de recherche d’accéder sans limites aux profils. **En effectuant une recherche précise sur Google**, nous pouvons trouver le reste des informations de l’utilisateur :
 
-<img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img2.jpg" alt="Préférences Linkedin" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/img2.jpg" alt="Préférences Linkedin" />
 
 Dans ce cas, nous spécifions que seules les pages de Linkedin nous intéressent (avec « site:linkedin.com »). Puis nous ajoutons le titre en guillemets, ce qui pousse Google à rechercher une correspondance exacte. **Le premier résultat correspond ici à notre recherche !**
 
@@ -35,8 +35,8 @@ De solutions s’offrent directement à vous. Elles sont utilisables séparémen
 
 * Vous pouvez vous connecter en navigation privée. Cela empêche Linkedin de se souvenir de vous. Cette solution marche dans la majorité des cas :
 
-<img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img3.jpg" alt="Préférences Linkedin" width="700" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/img3.jpg" alt="Préférences Linkedin" width="700" />
 
 * Google enregistre toutes les pages sur ses serveurs. Il les met ensuite à disposition. Cette méthode permet donc de complètement court-circuiter Linkedin (parfois certaines pages ne sont toutefois pas proposées en cache) :
 
-<img class="img-responsive" src="http://prospection-assets.s3.amazonaws.com/images/blog/acceder-a-n-importe-quel-profil-linkedin/img4.jpg" alt="Préférences Linkedin" width="650" />
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/img4.jpg" alt="Préférences Linkedin" width="650" />

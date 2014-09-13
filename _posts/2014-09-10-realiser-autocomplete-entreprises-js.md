@@ -2,8 +2,8 @@
 layout: post
 title: "Afficher un autocomplete avec toutes les entreprises Françaises"
 description: "Réaliser en 10 minutes un autocomplete d'entreprises et de leurs information en javascript."
-date: 2014-09-08
-image: https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_tutorial.jpg
+date: 2014-09-09
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-09/autocomplete_tutorial.jpg
 tag: "technique"
 tag_pretty_name: "Technique"
 
@@ -57,7 +57,7 @@ Typeahead.js fonctionne avec deux modules très distincts :
 
 Nous venons avant toute chose d'indiquer que les données sont à charger en AJAX (d'où le terme *remote*). On indique alors une url à laquelle envoyé les requêtes. Le filtre permet de retraiter les réponses du serveur. En effet voici le JSON retourné par nos serveurs :
 
-<img src="https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_json.jpg" width="300" class="animated-hover"/>
+<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-09/autocomplete_json.jpg" width="300" class="animated-hover"/>
 
 Il est donc nécessaire de prendre les entreprises dans result >> list et par la suite de créer un Array d'objets contenant les valeurs de chaque entreprises. D'où la nécessité de réaliser une boucle afin de retraîter sur chacun des résultats.
 
@@ -76,7 +76,7 @@ L'API renvoie en plus du nom de l'entreprise, son SIREN, son code postal et son 
 ## Résultat final
 
 <figure class="animated-demo">
-<img src="https://firmapi-uploads.s3.amazonaws.com/tutorials/autocomplete_demo.gif" width="450" class="animated-hover"/>
+<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-09/autocomplete_demo.gif" width="450" class="animated-hover"/>
 </figure>
 
 ## Conclusion
