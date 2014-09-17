@@ -41,7 +41,7 @@ Nous avons actuellement **493 043 noms de gérants** appartenant à **330 142 en
 
 ## L'arrivée de données sociales
 
-Nous avons aussi le plaisir d'ajouter les premières données sociales à l'occasion de cette mise à jour. Ainsi, nous commençons à ajouter les URL des profils Facebook, Twitter et Google+ aux données d'entreprises.
+Nous avons aussi le plaisir d'ajouter les premières données sociales à l'occasion de cette mise à jour. Ainsi, nous commençons à ajouter les URLs des profils Facebook, Twitter et Google+ aux données d'entreprises.
 
 Là encore, ces données sont principalement issues de l'analyse des sites web des entreprises. En fonction des demandes, nous pourrons enrichir ces données sociales avec d'autres types de profils sociaux et des indicateurs pour chaque réseau social (suivis, activité, etc.).
 
