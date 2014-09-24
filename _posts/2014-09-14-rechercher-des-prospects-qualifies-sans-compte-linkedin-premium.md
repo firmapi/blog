@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rechercher des prospects qualifiés sans compte Linkedin Premium"
-description: "Linkedin propose discrètement des solutions pour cibler des prospects très qualifiés sans compte prenium."
+description: "Linkedin propose des solutions pour cibler des prospects très qualifiés sans compte Premium."
 date: 2014-09-14
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-14/head-picture.jpg
 tag: "prospection"
