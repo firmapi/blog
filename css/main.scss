@@ -65,12 +65,17 @@ NAVBAR
 .navbar-brand {
   font-size: 1.3em;
   margin-top: 5px;
-}
 
-.blog-brand {
-  font-weight: bold;
-  margin-left: 10px;
-  font-size: 12px;
+  img {
+    height: 25px;
+    vertical-align: bottom;
+  }
+
+  .blog-brand {
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 12px;
+  }
 }
 
 .navbar-brand .fa-gears {
