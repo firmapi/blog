@@ -23,7 +23,7 @@ title: 'Tous les articles !CATEGORY!'
               <div class="col-md-6 share-twitter-list">
                 Partager :
                 <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}','Partager sur Facebook','menubar=no, status=no, scrollbars=no, menubar=no, width=520, height=570');">Facebook</a>
-                | <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ post.url }}&text={{ post.title | uri_escape }}&related={{ post.author_twitter }}" target="_blank">Twitter</a>
+                | <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ post.url }}&text={{ post.title | uri_escape }}&related={{ post.author_twitter }}&via=_Firmapi" target="_blank">Twitter</a>
                 | <a href="#" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ post.url }}&title={{ CGI::escape(post.title) }}&summary={{ CGI::escape(post.description) }}&source={{ CGI::escape(site.owner.name) }}', 'Partager sur LinkedIn','menubar=no, status=no, scrollbars=no, menubar=no, width=520, height=570');">Linkedin</a>
               </div>
             </div>
