@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+ul, ol {
+  margin-bottom: 2rem;
+}
+
 .gap-md {
   margin-top: 13px;
 }
@@ -172,6 +176,14 @@ Navigation catégories
   }
 }
 
+#category_name {
+  text-align: center;
+  margin: 30px auto;
+  width: 50%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #bbb;
+}
+
 /*
 INFOS ARTICLE
 ========================
@@ -204,7 +216,7 @@ INFOS ARTICLE
 }
 
 .share-twitter-list {
-  float: right;
+  text-align: right;
   font-size: 0.7em;
 }
 
@@ -354,10 +366,6 @@ h2 {
 
 .article-end-line {
   margin-top: 30px;
-}
-
-.index-title {
-  margin-top: 32px;
 }
 
 /*

@@ -3,7 +3,7 @@ layout: post
 title: "De nouvelles données pour les commerciaux dans Firmapi"
 description: "Après de nombreuses demandes, nous ajoutons des données de contact, les adresse des réseaux sociaux et le nom des gérants des entreprises dans l'API."
 date: 2014-09-16
-image: https://s3-eu-west-1.amazonaws.com/firmapi-assets/blog/2014-09-17/firmapi-api-screenshot.png
+image: https://s3-eu-west-1.amazonaws.com/firmapi-assets/blog/2014-09-17/article.png
 tag: "firmapi"
 tag_pretty_name: "Firmapi"
 

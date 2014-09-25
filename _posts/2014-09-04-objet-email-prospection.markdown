@@ -3,7 +3,7 @@ layout: post
 title: "Comment trouver l'objet parfait pour vos emails de prospection"
 description: "Vous le savez : l'object est l'élément la plus important dans vos emails. Voici comment écrire vos objets pour une efficacité optimale."
 date: 2014-09-04
-image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-04/objet-email-prospection.jpg
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-04/article.png
 tag: "prospection"
 tag_pretty_name: "Prospection"
 

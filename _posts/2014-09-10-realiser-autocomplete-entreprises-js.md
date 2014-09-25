@@ -3,7 +3,7 @@ layout: post
 title: "Afficher un autocomplete avec toutes les entreprises Françaises"
 description: "Réaliser en 10 minutes un autocomplete d'entreprises et de leurs information en javascript."
 date: 2014-09-09
-image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-09/autocomplete_tutorial.jpg
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-09/article.png
 tag: "technique"
 tag_pretty_name: "Technique"
 

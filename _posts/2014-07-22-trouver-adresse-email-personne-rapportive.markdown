@@ -3,7 +3,7 @@ layout: post
 title: "Trouver l'adresse email de n'importe qui grâce à Rapportive"
 description: "Connaissez-nous Rapportive ? Voici comment l'utiliser pour retrouver n'importe quelle adresse email."
 date: 2014-07-22
-image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-22/rapportive_email.jpg
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-22/article.png
 tag: "prospection"
 tag_pretty_name: "Prospection"
 

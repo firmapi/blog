@@ -3,7 +3,7 @@ layout: post
 title: "Comment envoyer un email à tous ses contacts Linkedin"
 description: "Apprenez à envoyer un message à tous vos contacts sur Linkedin en moins de 5 minutes."
 date: 2014-07-10
-image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-10/message-linkedin.png
+image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-10/article.png
 tag: "prospection"
 tag_pretty_name: "Prospection"
 
