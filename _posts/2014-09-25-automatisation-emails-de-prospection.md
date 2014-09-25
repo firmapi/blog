@@ -32,7 +32,7 @@ L'automatisation de la prospection n'est pas à bannir totalement en BtoB ; l'in
 * Votre service est-il personnalisé, voire sur-mesure ?
 * Le temps moyen avant conversion est-il élevé ?
 
-Si la réponse à ces questions est "non", vous pouvez opter pour l'automatisation de vos emails de prospection. Dans ce cas veillez, tout de même à segmenter autant que possible en fonction des besoins.
+Si la réponse à ces questions est "non", vous pouvez opter pour l'automatisation de vos emails de prospection. Dans ce cas, veillez tout de même à segmenter autant que possible en fonction des besoins.
 
 Aussi, assurez-vous de personnaliser en fonction des informations dont vous disposez dans votre base de données, à la fois dans le corps et <a href="http://blog.firmapi.com/objet-email-prospection/">l'objet de l'email</a>. Il est classique d'utiliser le prénom du destinataire pour attirer l'attention, mais vous pouvez personnaliser avec d'autres données dans le contenu, c'est encore mieux.
 
