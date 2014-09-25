@@ -28,11 +28,11 @@ La seconde !
 
 L'automatisation de la prospection n'est pas à bannir totalement en BtoB ; l'intérêt varie en fait sensiblement en fonction des situations. Cela doit être en cohérence avec votre modèle d'affaires :
 
-* Souscrire à votre solution nécessite-t-il un engagement fort ?
+* L'achat de votre solution nécessite-t-elle un engagement fort ?
 * Votre service est-il personnalisé, voire sur-mesure ?
 * Le temps moyen avant conversion est-il élevé ?
 
-Si la réponse à ses questions est "non", vous pouvez opter pour l'automatisation de vos emails de prospection. Dans ce cas veillez, tout de même à segmenter autant que possible en fonction des besoins.
+Si la réponse à ces questions est "non", vous pouvez opter pour l'automatisation de vos emails de prospection. Dans ce cas veillez, tout de même à segmenter autant que possible en fonction des besoins.
 
 Aussi, assurez-vous de personnaliser en fonction des informations dont vous disposez dans votre base de données, à la fois dans le corps et <a href="http://blog.firmapi.com/objet-email-prospection/">l'objet de l'email</a>. Il est classique d'utiliser le prénom du destinataire pour attirer l'attention, mais vous pouvez personnaliser avec d'autres données dans le contenu, c'est encore mieux.
 
@@ -42,6 +42,6 @@ Si vous ne vendez pas un produit standardisé et qu'une relation personnelle ave
 
 Cela signifie :
 
-* Partir sur une liste de prospects très segmentée.
-* Se renseigner sur le site de chaque entreprise pour mieux comprendre son activité et ses éventuels besoin.
-* Identifier et contacter les personnes de l'entreprises prenant les décisions d'achat. LinkedIn est alors un allié précieux pour trouver les bons profils (<a href="http://blog.firmapi.com/acceder-a-n-importe-quel-profil-linkedin/">accessibles même s'ils n'appartiennent pas à votre réseau</a>). Quelques <a href="http://blog.firmapi.com/trouver-adresse-email-personne-moteurs-recherche/">astuces utiles</a> peuvent vous permettre d'obtenir les adresses emails qu'il vous manquent.
+* Partir sur une liste de prospects très segmentée ;
+* Se renseigner sur le site de chaque entreprise pour mieux comprendre son activité et ses éventuels besoin ;
+* Identifier et contacter les décideurs au sein de l'entreprise. LinkedIn est alors un allié précieux pour trouver les bons profils (<a href="http://blog.firmapi.com/acceder-a-n-importe-quel-profil-linkedin/">accessibles même s'ils n'appartiennent pas à votre réseau</a>). Quelques <a href="http://blog.firmapi.com/trouver-adresse-email-personne-moteurs-recherche/">astuces utiles</a> peuvent vous permettre d'obtenir les adresses emails qu'il vous manquent.
