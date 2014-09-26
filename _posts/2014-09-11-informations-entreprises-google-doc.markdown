@@ -28,7 +28,7 @@ Aucune connaissance en programmation n'est requise. Il vous faudra simplement :
 * Disposer d'une clé d'API pour Firmapi que vous pouvez obtenir en vous <a href="https://firmapi.com/api" target="_blank">inscrivant gratuitement</a>.
 * Accéder à la <a href="https://docs.google.com/spreadsheets/d/1wH7oB6wMr9WxxDqtK1LioYLBGqC5dFkBRVDI0ucqf9s/edit?usp=sharing" target="_blank">**feuille de calcul du tutoriel**</a> puis l'enregistrer en cliquant sur *Fichier* et *Créer une copie* (nécessaire pour pouvoir éditer le document).
 
-<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_creer_une_copie.gif" alt="Créer une copie Google Spreadsheet" width="350" class="animated-hover"/>
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_creer_une_copie.gif" alt="Créer une copie Google Spreadsheet" width="350" class="animated-hover"/>
 
 ## Etape 1 : Mise en route
 
@@ -38,7 +38,7 @@ Ouvrez votre copie du document. Vous arrivez sur un premier onglet intitulé "Co
 
 Vous pouvez générer une liste d'entreprises en fonction des critères de votre choix. Il est pour l'instant possible de segmenter en ajoutant un code postal (ou département) et un code NAF.
 
-<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_segmentation.gif" alt="Choix des critères de segmentation" width="650" class="animated-hover"/>
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_segmentation.gif" alt="Choix des critères de segmentation" width="650" class="animated-hover"/>
 
 La génération de la liste peut prendre quelques minutes en fonction du nombre d'entreprises.
 
@@ -50,6 +50,6 @@ Après avoir réalisé l'étape 2, vous pouvez constater que la feuille "Donnée
 
 Vous pouvez maintenant complèter cette base de données avec les données de votre choix (adresse, code postal, ville, chiffre d'affaires, effectif, numéro de TVA intracommunautaire... etc.).
 
-<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_informations_entreprises.gif" alt="Choix des critères de segmentation" width="650" class="animated-hover"/>
+<img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/google_doc_informations_entreprises.gif" alt="Choix des critères de segmentation" width="650" class="animated-hover"/>
 
 **Attention** : Google Spreadsheet ne supporte pas un temps d'execution trop long. Ainsi, un trop grand nombre d'entreprises (plusieurs milliers) peut faire échouer le script en cours. Il est alors préférable de diviser la liste de SIREN en plusieurs parties.
