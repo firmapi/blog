@@ -141,7 +141,6 @@ Colonne de gauche
 */
 
 .fixed {
-    padding: 9px 0;
     position:fixed;
     width:360px;
 }
@@ -149,7 +148,7 @@ Colonne de gauche
 .cta_left {
   padding: 30px;
   background-color: #f9f9f9;
-  margin: 40px 10px;
+  margin: 45px 10px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
@@ -282,6 +281,11 @@ BOUTONS DE PARTAGE
     margin-right: 10px;
   }
 
+}
+
+.social-counter  {
+  margin-left: 10px;
+  font-weight: bold;
 }
 
 .btn {
