@@ -44,4 +44,4 @@ Cela signifie :
 
 * Partir sur une liste de prospects très segmentée ;
 * Se renseigner sur le site de chaque entreprise pour mieux comprendre son activité et ses éventuels besoin ;
-* Identifier et contacter les décideurs au sein de l'entreprise. LinkedIn est alors un allié précieux pour trouver les bons profils (<a href="http://blog.firmapi.com/acceder-a-n-importe-quel-profil-linkedin/">accessibles même s'ils n'appartiennent pas à votre réseau</a>). Quelques <a href="http://blog.firmapi.com/trouver-adresse-email-personne-moteurs-recherche/">astuces utiles</a> peuvent vous permettre d'obtenir les adresses emails qu'il vous manquent.
+* Identifier et contacter les décideurs au sein de l'entreprise. LinkedIn est alors un allié précieux pour trouver les bons profils (<a href="http://blog.firmapi.com/acceder-a-n-importe-quel-profil-linkedin/">accessibles même s'ils n'appartiennent pas à votre réseau</a>). Quelques <a href="http://blog.firmapi.com/trouver-adresse-email-personne-moteurs-recherche/">astuces utiles</a> peuvent vous permettre d'obtenir les adresses emails qu'il vous manque.
