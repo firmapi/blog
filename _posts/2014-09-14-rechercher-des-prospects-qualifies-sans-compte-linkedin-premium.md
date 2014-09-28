@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Voici une fonctionnalité précieuse de LinkedIn que vous ignorez sans doute"
-description: "Linkedin propose des solutions pour cibler des prospects très qualifiés sans compte Premium."
+title: "Voici un outil précieux sur LinkedIn que vous ignorez sans doute"
+description: "Pas besoin de compte Premium pour profiter du potentiel de LinkedIn. Voici comment faire."
 date: 2014-09-14
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-14/article.png
 tag: "prospection"
