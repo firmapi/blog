@@ -24,6 +24,33 @@ ul, ol {
   margin-top: 13px;
 }
 
+.btn-primary {
+  background-color: #3699EE;
+  border: none;
+
+  &:hover {
+    background-color: #2A89DB;
+  }
+}
+
+input, button, textarea, select, .alert, .dropdown-menu, a {
+  -moz-border-radius: 0px !important;
+  -webkit-border-radius: 0px !important;
+  border-radius: 0px !important;
+}
+
+input:focus, textarea:focus, select:focus {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border-color: #5cb85c !important;
+}
+
+*:focus
+{
+  outline: none !important;
+}
+
+
 /*
 HOME
 */
@@ -47,7 +74,7 @@ NAVBAR
 }
 
 .navbar {
-  min-height: 60px;
+  min-height: 75px;
   font-size: 14px;
 }
 
@@ -71,14 +98,14 @@ NAVBAR
   margin-top: 5px;
 
   img {
-    height: 25px;
+    height: 35px;
     vertical-align: bottom;
   }
 
   .blog-brand {
     font-weight: bold;
-    margin-left: 10px;
-    font-size: 12px;
+    margin-left: 15px;
+    font-size: 14px;
   }
 }
 
@@ -149,9 +176,6 @@ Colonne de gauche
   padding: 30px;
   background-color: #f9f9f9;
   margin: 45px 10px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
 
   h3 {
     font-size: 1.5em;
@@ -198,20 +222,20 @@ Navigation catégories
   a {
     color: #515151;
     font-size: 18px;
-    border-bottom: 3px solid #f5f5f5;
+    border-bottom: 3px solid #f9f9f9;
     background-color: #f9f9f9;
     padding: 20px 0 !important;
     border-radius: 0px !important;
 
     &:hover {
       background-color: #f5f5f5;
-      border-bottom: 3px solid #428bca;
+      border-bottom: 3px solid #2A89DB;
     }
   }
 
   a.active {
     background-color: #f5f5f5;
-    border-bottom: 3px solid #428bca;
+    border-bottom: 3px solid #2A89DB;
   }
 
   .fa {
@@ -237,10 +261,6 @@ INFOS ARTICLE
   font-size: 15px;
   margin: 25px 20px 0 0;
   text-align: right;
-}
-
-.author-picture {
-  border-radius: 5px;
 }
 
 .informations-aside {
@@ -291,9 +311,6 @@ BOUTONS DE PARTAGE
 .btn {
   display: inline-block;
   color: #fff;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
 
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
