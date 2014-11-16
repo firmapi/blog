@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 manières de booster votre CRM avec Firmapi"
+title: "4 manières de booster votre CRM avec l'API de Firmapi"
 description: "Alliez la puissance de votre CRM ou ERP à notre base de données d'entreprises. Voici 4 cas courant d'intégrations pour décupler les performances de votre outil."
 date: 2014-09-26
 image: https://s3-eu-west-1.amazonaws.com/firmapi-assets/blog/2014-09-26/article.jpg

@@ -255,20 +255,6 @@ INFOS ARTICLE
 ========================
 */
 
-.infos-article {
-  font-size: 15px;
-  margin: 25px 20px 0 0;
-  text-align: right;
-}
-
-.informations-aside {
-  color: #999;
-
-  p {
-    margin: 0;
-  }
-}
-
 .comments-link {
   color: #999;
 
@@ -392,11 +378,6 @@ h2.article-title {
   }
 }
 
-.article-date {
-  color: #aaa;
-  font-size: 14px;
-}
-
 .articles-separator {
   margin: 20px 0 50px;
 }
@@ -433,11 +414,37 @@ h2 {
 }
 
 .article-end-line {
-  margin-top: 30px;
+  margin: 40px 0 20px;
+}
+
+.article-date {
+  color: #aaa;
+  font-size: 14px;
+  float: right;
+}
+
+.author-pic {
+  margin: 0 10px 0 0 !important;
+  float: left;
+}
+
+.author-twitter {
+  margin-left: 10px;
+  color: #bbb !important;
+  font-size: 16px;
+
+  &:hover {
+    border: 0;
+    color: #4099FF !important;
+  }
+}
+
+.author-name {
+  margin: 22px 0 10px;
 }
 
 #disqus_thread {
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 /*

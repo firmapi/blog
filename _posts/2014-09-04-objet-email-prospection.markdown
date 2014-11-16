@@ -13,7 +13,7 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
-C'est bon. Vous avez votre <a href="http://www.files.firmapi.com/">fichier d'emailing</a> et êtes prêt à prospecter. Il est temps de préparer vos emails, manuels ou automatiques. Vous avez bien conscience du rôle primordial de l'objet de votre email mais ne savez pas quoi mettre en avant.
+C'est bon. Vous avez votre fichier d'emailing et êtes prêt à prospecter. Il est temps de préparer vos emails, manuels ou automatiques. Vous avez bien conscience du rôle primordial de l'objet de votre email mais ne savez pas quoi mettre en avant.
 
 En effet, c'est essentiellement l'objet de l'email qui va déterminer votre taux d'ouverture. L'objet de votre email de prospection a pour but d'annoncer le sujet de votre prise de contact, et surtout faire cliquer votre destinataire.
 
