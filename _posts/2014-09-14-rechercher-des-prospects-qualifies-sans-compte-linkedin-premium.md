@@ -4,8 +4,8 @@ title: "Voici un outil précieux sur LinkedIn que vous ignorez sans doute"
 description: "Pas besoin de compte Premium pour profiter du potentiel de LinkedIn. Voici comment faire."
 date: 2014-09-14
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-14/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: Antoine Finkelstein
 author_twitter: AntoineFink

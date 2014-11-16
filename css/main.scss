@@ -20,6 +20,16 @@ ul, ol {
   margin-bottom: 2rem;
 }
 
+a {
+  color: #2680CE;
+}
+
+a:hover {
+  color: #2680CE;
+  text-decoration: none;
+  border-bottom: 1px solid #2680CE;
+}
+
 .gap-md {
   margin-top: 13px;
 }
@@ -59,6 +69,10 @@ HOME
   margin-top: 30px;
 }
 
+.col-left-home {
+  margin-top: 45px;
+}
+
 /*
 NAVBAR
 ========================
@@ -78,24 +92,17 @@ NAVBAR
   font-size: 14px;
 }
 
-.navbar-nav > li {
-  > a {
-    padding: 20px 20px;
-  }
-}
-
-.navbar-default .navbar-nav > .active > a {
-  background-color: #F9F9F9;
-  text-shadow: 1px 1px #fff;
-  &:hover, &:focus {
-    background-color: #F9F9F9;
-    text-shadow: 1px 1px #fff;
-  }
+.header-cta {
+  margin-top: 15px;
 }
 
 .navbar-brand {
   font-size: 1.3em;
   margin-top: 5px;
+
+  &:hover {
+    border: 0;
+  }
 
   img {
     height: 35px;
@@ -107,15 +114,6 @@ NAVBAR
     margin-left: 15px;
     font-size: 14px;
   }
-}
-
-.navbar-brand .fa-gears {
-  color: #428bca;
-  margin-right: 0.5em;
-}
-
-.icon-cart {
-  margin-right: 10px;
 }
 
 /*
@@ -276,6 +274,7 @@ INFOS ARTICLE
 
   &:hover {
     color: #999;
+    border-bottom: 1px solid #bbb;
   }
 }
 
@@ -290,7 +289,7 @@ BOUTONS DE PARTAGE
 */
 
 .share-buttons {
-  margin: 30px 0 10px 0;
+  margin: 30px 0;
 
   .btn {
     margin-bottom: 20px;
@@ -364,20 +363,22 @@ ARTICLE
 */
 
 .article-title a {
-  color: black;
+  color: #333;
 
   &:hover {
     color: #428bca;
     text-decoration: none;
+    border: 0;
   }
 }
 
 h2.article-title {
   margin-top: 13px;
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .article-title-page {
+  margin-top: 45px;
   font-size: 42px;
 }
 
@@ -397,7 +398,7 @@ h2.article-title {
 }
 
 .articles-separator {
-  margin: 30px 0;
+  margin: 20px 0 50px;
 }
 
 .article-cta {
@@ -411,6 +412,7 @@ h2.article-title {
 
 .article-description {
   color: #616161;
+  font-size: 19px;
 }
 
 h1 {
@@ -418,7 +420,7 @@ h1 {
 }
 
 h2 {
-  margin: 55px 0 1em;
+  margin: 1.5em 0 1em;
 }
 
 .article-col img {
@@ -434,6 +436,10 @@ h2 {
   margin-top: 30px;
 }
 
+#disqus_thread {
+  margin-top: 50px;
+}
+
 /*
 FOOTER
 ========================
@@ -443,6 +449,18 @@ FOOTER
   margin-top: 100px;
   padding: 30px 0;
   color: #aaa;
+
+  .follow-footer {
+    margin-left: 10px;
+
+    &:hover {
+      border: 0;
+    }
+  }
+
+  .follow-footer-incent {
+    color: #666;
+  }
 }
 
 .rss {

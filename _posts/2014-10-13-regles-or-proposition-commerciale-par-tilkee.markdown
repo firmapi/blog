@@ -4,8 +4,8 @@ title: "Les 6 règles d’or pour une proposition commerciale efficace"
 description: "Le chemin vers la signature d’un contrat est fastidieux. Voici quelques conseils pour augmenter votre taux de transformation."
 date: 2014-10-13
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-10-13/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: "Victor de Tilkee"
 author_twitter: "tilkeeapp"
@@ -33,8 +33,6 @@ Les chiffres parlent d’eux mêmes : vous perdez 18% de votre CA en ne relança
 
 ## 6. Aspirez à être parfait
 Le schéma de lecture d’une proposition est sensiblement le même d’un prospect à l’autre. Profitez de votre expérience grandissante pour repenser continuellement vos propositions de manière concise, précise et efficace.
-
-<br/>
 
 Ces différents points sont cruciaux pour transformer un prospect en client.
 Pour vous accompagner et ne jamais perdre la relation commerciale, l’application web <a href="http://www.tilkee.fr/" target="_blank">Tilkee</a> vous permet d’envoyer des propositions commerciales complètes et recevoir des statistiques détaillées sur la lecture de cette proposition (temps de lecture, pages lues, documents téléchargés…). Vous savez qui relancer et quand le faire.

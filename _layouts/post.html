@@ -4,55 +4,23 @@ layout: default
 
 <div class="container home-body">
   <div class="row">
-    <div class="col-md-2 visible-lg visible-md">
-      <aside class="infos-article">
-        <img class="author-picture" src="{{ page.gravatar }}" alt="{{ page.author }}" />
-        <br/><br/>
-        <p><strong>{{ page.author }}</strong></p>
-        <p><a href="https://twitter.com/{{ page.author_twitter }}" target="_blank">@{{ page.author_twitter }}</a></p>
-        <hr>
-        <div class="informations-aside">
-          <p><a class="comments-link" href="{{ page.url }}#disqus_thread">Commentaires</a></p>
-        </div>
-      </aside>
+    <div class="col-md-4 visible-lg visible-md">
+      <div class="fixed">
+        {% include left-col.html %}
+      </div>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-8">
       <div class="article-col">
         <h1 class="article-title article-title-page">{{ page.title }}</h1>
         <div class="share-buttons">
           {% include share-buttons.html %}
         </div>
-        <img class="article-image img-responsive" src="{{ page.image }}" alt="{{ page.title }}" />
         <article class="article-body">
           {{ content }}
           <hr class="article-end-line">
           <p class="article-date">Article publié le {{ page.date | date: "%-d/%m/%Y" }} par {{ page.author }} dans <a class="comments-link" href="/category/{{ page.tag }}" title="Voir tous les articles classés dans {{ page.tag_pretty_name }}">{{ page.tag_pretty_name }}</a></p>
         </article>
-        <div class="article-cta">
 
-          <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup">
-            <p>Obtenez les derniers conseils, techniques, et du contenu exclusif par email :</p>
-
-            <form action="//firmapi.us9.list-manage.com/subscribe/post?u=dd719da28785e1e9474b84eec&amp;id=58306dbc9d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
-
-              <div id="mce-responses" class="clear">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-              </div>
-
-              <div class="form-group gap-md">
-                <input type="text" value="" name="FNAME" class="required form-control input-lg" id="mce-FNAME" placeholder="Prénom" style="width: 280px;">
-                <input type="email" value="" name="EMAIL" class="required email form-control input-lg" id="mce-EMAIL" placeholder="Email" style="width: 280px;">
-              </div>
-              <input type="submit" value="S'abonner" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary btn-lg gap-md">
-
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;"><input type="text" name="b_dd719da28785e1e9474b84eec_58306dbc9d" tabindex="-1" value=""></div>
-            </form>
-          </div>
-
-        </div>
         <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

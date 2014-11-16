@@ -4,8 +4,8 @@ title: "Trouver l'adresse email de n'importe qui grâce aux moteurs de recherche
 description: "Avec un peu d'astuce, vous pouvez obtenir l'adresse email d'à peu près n'importe qui en quelques minutes."
 date: 2014-07-21
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-07-21/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: François Grante
 author_twitter: FGrante

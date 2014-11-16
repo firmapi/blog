@@ -11,14 +11,13 @@ title: 'Tous les articles !CATEGORY!'
           {% include left-col.html %}
         </div>
       </div>
-      <div class="col-lg-8 col-md-12">
+      <div class="col-lg-8 col-md-12 col-left-home">
         {% for post in site.posts %}
         {% for tag in post.tags %}
         {% if tag == page.tag %}
         <div class="article-col">
           <article class="article-body">
             <div class="index-title">
-              <img src="{{ post.image }}" alt="{{ post.title }}" class="img-responsive" />
               <h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
               <p  class="article-description">{{ post.description }}</p>
 

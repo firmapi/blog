@@ -4,8 +4,8 @@ title: "Emails de prospection en BtoB : faut-il automatiser&nbsp;?"
 description: "Vaut-il mieux jouer sur la quantité ou la qualité lorsqu'il s'agit d'email de prospection  en BtoB ?"
 date: 2014-09-25
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-25/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: François Grante
 author_twitter: FGrante

@@ -11,15 +11,13 @@ title: "Firmapi &mdash; Blog"
         {% include left-col.html %}
       </div>
     </div>
-    <div class="col-lg-8 col-md-12">
+    <div class="col-lg-8 col-md-12 col-left-home">
       {% for post in site.posts %}
       <div class="article-col">
         <article class="article-body">
           <div class="index-title">
-            <img src="{{ post.image }}" alt="{{ post.title }}" class="img-responsive" />
             <h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             <p  class="article-description">{{ post.description }}</p>
-
             <div class="row">
               <div class="col-md-6">
                 <p class="article-date">{{ post.author }} | {{ post.date | date: "%d/%m/%Y" }} | <a class="comments-link" href="{{ post.url }}#disqus_thread">Commentaires</a></p>
@@ -35,5 +33,4 @@ title: "Firmapi &mdash; Blog"
       {% endfor %}
     </div>
   </div>
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 </div>

@@ -4,8 +4,8 @@ title: "Accéder au profil et au nom d'une cible en-dehors de son réseau Linked
 description: "Linkedin ne permet pas d'afficher en entier le profil ou le nom d'un utilisateur en dehors de votre réseau. Voici la solution."
 date: 2014-09-08
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-08/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: Antoine Finkelstein
 author_twitter: AntoineFink

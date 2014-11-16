@@ -4,8 +4,8 @@ title: "Obtenir les informations d'entreprises dans Google Doc"
 description: "Générez une liste d'entreprises et obtenez toutes les données de votre choix directement dans Google Spreadsheet."
 date: 2014-09-11
 image: https://d144bz4d6i1vob.cloudfront.net/blog/2014-09-11/article.png
-tag: "prospection"
-tag_pretty_name: "Prospection"
+tag: "vente"
+tag_pretty_name: "Vente"
 
 author: François Grante
 author_twitter: FGrante
