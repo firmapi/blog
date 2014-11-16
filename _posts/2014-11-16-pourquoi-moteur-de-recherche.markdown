@@ -3,7 +3,7 @@ layout: post
 title: "Pourquoi nous avons créé un moteur de recherche et ce que nous avons appris"
 description: "Firmapi était un API, c'est maintenant un moteur de recherche d'entreprises. Voici pourquoi nous avons effectué ce pivot."
 date: 2014-11-16
-image:
+image: "https://d144bz4d6i1vob.cloudfront.net/blog/2014-11-16/article.png"
 tag: "firmapi"
 tag_pretty_name: "Firmapi"
 
@@ -31,6 +31,8 @@ Explorer avec un moteur de recherche présente plusieurs avantages :
 * La rapidité d'exploration : tout part d'une requête très simple. On ne passe pas des heures à chercher parmi des listes possibles.
 
 Il est toujours possible ensuite d'appliquer des filtres pour affiner la liste obtenue.
+
+<img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-11-16/article.png" alt="Page de recherche Firmapi" class="img-responsive" />
 
 ## L'envers du décor : les défis techniques
 
@@ -71,6 +73,6 @@ D'où l'importance de tester et suivre l'utilisation en permanence et ne jamais 
 
 **Pas besoin d'être ingénieur chez Google pour développer un produit technique**
 
-Ayant tous les deux des profils non-techniques (sous-entendu : nous ne sommes pas passé par une école d'ingénieur), nous n'imaginions pas il y a quelques mois développer un moteur de recherche. <a href="https://twitter.com/antoinefink" target="_blank">Antoine</a> a appris à gérer et traiter de groses quantités de données ce qui nous a permis d'envisager de nouvelles voies au fur et à mesure.
+Ayant tous les deux des profils non-techniques (sous-entendu : nous ne sommes pas passés par une école d'ingénieur), nous n'imaginions pas il y a quelques mois développer un moteur de recherche. <a href="https://twitter.com/antoinefink" target="_blank">Antoine</a> a appris à gérer et traiter de groses quantités de données ce qui nous a permis d'envisager de nouvelles voies au fur et à mesure.
 
 L'important est de savoir apprendre vite et persévérer malgré la difficulté. Heureusement, l'essor de l'Open Source permet d'avancer rapidement et se focaliser sur ce qui rend son produit unique au lieu de réinventer la roue à chaque fois.
