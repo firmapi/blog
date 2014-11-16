@@ -365,12 +365,12 @@ h2.article-title {
 
 .article-title-page {
   margin-top: 45px;
-  font-size: 42px;
+  font-size: 40px;
 }
 
 .article-body {
   font-size: 20px;
-  line-height: 28px;
+  line-height: 32px;
   margin-top: -5px;
 
   p {
@@ -404,6 +404,10 @@ h2 {
   margin: 1.5em 0 1em;
 }
 
+h3 {
+  margin: 1.5em 0 1em;
+}
+
 .article-col img {
   display: block;
   margin: 50px auto;
@@ -423,13 +427,13 @@ h2 {
 }
 
 .author-pic {
-  margin: 0 10px 0 0 !important;
+  margin: 0 15px 0 0 !important;
   float: left;
 }
 
 .author-twitter {
   margin-left: 10px;
-  color: #bbb !important;
+  color: #ccc !important;
   font-size: 16px;
 
   &:hover {
