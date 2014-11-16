@@ -13,7 +13,7 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
-C'est notre premier pivot majeur depuis que nous travaillons sur Firmapi. Nous nous éloignons de notre idée de départ, une <a href="http://api.firmapi.com/" target="_blank">API des entreprises françaises</a> et avons décidé de créer un <a href="https://firmapi.com" target="_blank">moteur de recherche d'entreprises</a>.
+C'est le premier pivot majeur depuis que nous travaillons sur Firmapi. Nous nous éloignons de notre idée de départ, une <a href="http://api.firmapi.com/" target="_blank">API des entreprises françaises</a> et avons décidé de créer un <a href="https://firmapi.com" target="_blank">moteur de recherche d'entreprises</a>.
 
 ## Le problème
 
@@ -44,7 +44,7 @@ Pour construire un moteur moteur de recherche, il faut du contenu à indexer. Le
 
 Pour cela, nous avons créé des <a href="http://fr.wikipedia.org/wiki/Robot_d'indexation" target="_blank">robots d'indexation</a> qui parcourent tout le web français. Dès que nous détectons qu'un site correspond à une entreprise française, nous l'ajoutons à l'index du moteur de recherche.
 
-A l'heure actuelle, nous avons validé près de 100 000 sites web appartenant à des entreprises françaises. Cet index progresse rapidement de jour en jour. Nous complètons également les données sur les entreprises en retrouvant également les profils sur les réseaux sociaux (Facebook, Twitter et Linkedin pour le moment).
+A l'heure actuelle, nous avons validé près de 100 000 sites web appartenant à des entreprises françaises. Cet index progresse rapidement de jour en jour. Nous complétons également les données sur les entreprises en retrouvant également les profils sur les réseaux sociaux (Facebook, Twitter et Linkedin pour le moment).
 
 Quand les utilisateurs font une recherche sur Firmapi, ils recherchent ainsi parmi une multitude de sources : base de données d'entreprises, site web, descriptions sur les réseaux sociaux...
 
@@ -54,7 +54,7 @@ La bonne surprise que nous avons eu, c'est le faible coût des serveurs (moins d
 
 C'est sans doute la partie la plus épineuse. Comment comprendre la requête de l'utilisateurs et lui retourner les meilleurs résultats ?
 
-Le moteur de recherche Open Source <a href="http://www.elasticsearch.org/" target="_blank">Elastic Search</a> nous est d'une grand aide. Le classement par pertinence se fait suivant deux grand indicateurs :
+Le moteur de recherche Open Source <a href="http://www.elasticsearch.org/" target="_blank">Elastic Search</a> nous est d'une grand aide. Le classement par pertinence sur Firmapi se fait suivant deux grand indicateurs :
 
 * La corrélation entre les mots clés de la recherche et les mots clés trouvés sur l'entreprise (site web et réseaux sociaux).
 * L'importance et le dynamisme de l'entreprise modélisés par un score qui prend en compte de nombreux indicateurs comme la forme juridique, la croissance de l'activité, les suivis sur les réseaux sociaux... etc.
@@ -69,10 +69,12 @@ Nous adorerions recevoir de nouveaux feedbacks pour améliorer le classement des
 
 En construisant un outil on imagine souvent quelques cas d'utilisation limités. Finalement, l'utilisateur qui découvre le produit emprunte des chemins qu'on n'imaginait pas une seconde en concevant l'outil.
 
+Par exemple, nous avons été surpris de voir que dans 80% des cas, la première recherche que fait un visiteur est le nom d'une entreprise qu'il connaît pour tester le moteur. Nous avons ainsi dû adapter l'interface et l'algorithme pour que cette première expérience soit plus souvent réussie (en séparant notamment la recherche d'un nom d'entreprise).
+
 D'où l'importance de tester et suivre l'utilisation en permanence et ne jamais développer de nouvelles features tant que ce qui est en ligne n'est pas validé. Je vous laisse (re)lire les grands principes du <a href="http://fr.wikipedia.org/wiki/Lean_Startup" target="_blank">Lean Startup</a> sur l'itération ;-)
 
 **Pas besoin d'être ingénieur chez Google pour développer un produit technique**
 
-Ayant tous les deux des profils non-techniques (sous-entendu : nous ne sommes pas passés par une école d'ingénieur), nous n'imaginions pas il y a quelques mois développer un moteur de recherche. <a href="https://twitter.com/antoinefink" target="_blank">Antoine</a> a appris à gérer et traiter de groses quantités de données ce qui nous a permis d'envisager de nouvelles voies au fur et à mesure.
+Ayant tous les deux des profils non-techniques (sous-entendu : nous ne sommes pas passés par une école d'ingénieur), nous n'imaginions pas il y a quelques mois développer un moteur de recherche. <a href="https://twitter.com/antoinefink" target="_blank">Antoine</a> a appris à gérer et traiter de grosses quantités de données ce qui nous a permis d'envisager de nouvelles voies au fur et à mesure.
 
 L'important est de savoir apprendre vite et persévérer malgré la difficulté. Heureusement, l'essor de l'Open Source permet d'avancer rapidement et se focaliser sur ce qui rend son produit unique au lieu de réinventer la roue à chaque fois.
