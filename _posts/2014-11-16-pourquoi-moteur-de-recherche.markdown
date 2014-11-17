@@ -19,7 +19,7 @@ C'est le premier pivot majeur depuis que nous travaillons sur Firmapi. Nous nous
 
 Constat : les bases de données B2B en France sont en grande majorité des bases de données d'informations légales (BODACC et Infogreffe). Ce sont des bases exhaustives et fiables, mais pour qualifier sa recherche dans le cadre d'une activité commerciale, on se retrouve vite limité.
 
-Il est bien possible de rechercher par effectif, chiffre d'affaires ou zone géographique, mais lorsqu'on souhaite segmenter par secteur d'activité cela se complique. Les codes NAF attribués par l'INSEE sont la seule donnée à disposition et se révèlent souvent complexes et peu exploitables pour la fonction commerciale (feedback que nous avons eu de façon très récurrente).
+Il est bien possible de rechercher par effectif, chiffre d'affaires ou zone géographique, mais lorsqu'on souhaite segmenter par secteur d'activité cela se complique. Les codes NAF attribués par l'INSEE sont la seule donnée à disposition et se révèlent souvent complexes et peu exploitables (feedback que nous avons eu de façon très récurrente).
 
 ## La solution
 
@@ -44,7 +44,7 @@ Pour construire un moteur moteur de recherche, il faut du contenu à indexer. Le
 
 Pour cela, nous avons créé des <a href="http://fr.wikipedia.org/wiki/Robot_d'indexation" target="_blank">robots d'indexation</a> qui parcourent tout le web français. Dès que nous détectons qu'un site correspond à une entreprise française, nous l'ajoutons à l'index du moteur de recherche.
 
-A l'heure actuelle, nous avons validé près de 100 000 sites web appartenant à des entreprises françaises. Cet index progresse rapidement de jour en jour. Nous complétons également les données sur les entreprises en retrouvant également les profils sur les réseaux sociaux (Facebook, Twitter et Linkedin pour le moment).
+A l'heure actuelle, nous avons validé près de 100 000 sites web appartenant à des entreprises. Cet index progresse rapidement de jour en jour. Nous complétons également les données sur les entreprises en retrouvant également les profils sur les réseaux sociaux (Facebook, Twitter et Linkedin pour le moment).
 
 Quand les utilisateurs font une recherche sur Firmapi, ils recherchent ainsi parmi une multitude de sources : base de données d'entreprises, site web, descriptions sur les réseaux sociaux...
 
