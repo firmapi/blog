@@ -32,6 +32,8 @@ Explorer avec un moteur de recherche présente plusieurs avantages :
 
 Il est toujours possible ensuite d'appliquer des filtres pour affiner la liste obtenue.
 
+Bref, ce sont les mêmes avantages qui ont fait qu'il y a 15 ans, les gens arrêté de naviguer sur le web en utilisant les annuaires et on commencé à utiliser les moteurs de recherche.
+
 <img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-11-16/article.png" alt="Page de recherche Firmapi" class="img-responsive" />
 
 ## L'envers du décor : les défis techniques
@@ -69,7 +71,7 @@ Nous adorerions recevoir de nouveaux feedbacks pour améliorer le classement des
 
 En construisant un outil on imagine souvent quelques cas d'utilisation limités. Finalement, l'utilisateur qui découvre le produit emprunte des chemins qu'on n'imaginait pas en concevant l'outil.
 
-Par exemple, nous avons été surpris de voir que dans 80% des cas, la première recherche que fait un visiteur est le nom d'une entreprise qu'il connaît pour tester le moteur. Nous avons ainsi dû adapter l'interface et l'algorithme pour que cette première expérience soit plus souvent réussie (en séparant notamment la recherche d'un nom d'entreprise).
+Par exemple, nous avons été surpris de voir que dans 80% des cas, la première recherche que fait un visiteur est le nom d'une entreprise qu'il connaît pour tester le moteur. Nous avons ainsi dû adapter l'interface et l'algorithme pour que cette première expérience soit plus souvent réussie.
 
 D'où l'importance de tester et suivre l'utilisation en permanence et ne jamais développer de nouvelles features tant que ce qui est en ligne n'est pas validé. Je vous laisse (re)lire les grands principes du <a href="http://fr.wikipedia.org/wiki/Lean_Startup" target="_blank">Lean Startup</a> sur l'itération ;-)
 
