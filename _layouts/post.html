@@ -4,12 +4,12 @@ layout: default
 
 <div class="container home-body">
   <div class="row">
-    <div class="col-md-4 visible-lg visible-md">
+    <div class="col-md-4 visible-lg">
       <div class="fixed">
         {% include left-col.html %}
       </div>
     </div>
-    <div class="col-md-8">
+    <div class="col-lg-8 col-md-12">
       <div class="article-col">
         <h1 class="article-title article-title-page">{{ page.title }}</h1>
         <div class="share-buttons">
@@ -18,7 +18,7 @@ layout: default
         <article class="article-body">
           {{ content }}
           <hr class="article-end-line">
-          <p class="article-date pull-right">Article publié le {{ page.date | date: "%-d/%m/%Y" }} dans <a class="comments-link" href="/category/{{ page.tag }}" title="Voir tous les articles classés dans {{ page.tag_pretty_name }}">{{ page.tag_pretty_name }}</a></p>
+          <p class="article-date pull-right visible-lg">Article publié le {{ page.date | date: "%-d/%m/%Y" }} dans <a class="comments-link" href="/category/{{ page.tag }}" title="Voir tous les articles classés dans {{ page.tag_pretty_name }}">{{ page.tag_pretty_name }}</a></p>
           <img class="author-pic" src="{{ page.gravatar }}" alt="{{ page.author }}" >
           <div class="author-name">{{ page.author }}<a href="https://twitter.com/{{ page.author_twitter }}" class="author-twitter" target="_blank"><i class="fa fa-twitter"></i></a></div>
 

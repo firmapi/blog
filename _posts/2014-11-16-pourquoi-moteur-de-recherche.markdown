@@ -54,7 +54,7 @@ La bonne surprise que nous avons eu, c'est le faible coût des serveurs (moins d
 
 C'est sans doute la partie la plus épineuse. Comment comprendre la requête de l'utilisateurs et lui retourner les meilleurs résultats ?
 
-Le moteur de recherche Open Source <a href="http://www.elasticsearch.org/" target="_blank">Elastic Search</a> nous est d'une grand aide. Le classement par pertinence sur Firmapi se fait suivant deux grand indicateurs :
+Le moteur de recherche Open Source <a href="http://www.elasticsearch.org/" target="_blank">Elastic Search</a> nous est d'une grand aide. Le classement par pertinence sur Firmapi se fait suivant deux grandes valeurs :
 
 * La corrélation entre les mots clés de la recherche et les mots clés trouvés sur l'entreprise (site web et réseaux sociaux).
 * L'importance et le dynamisme de l'entreprise modélisés par un score qui prend en compte de nombreux indicateurs comme la forme juridique, la croissance de l'activité, les suivis sur les réseaux sociaux... etc.
@@ -67,7 +67,7 @@ Nous adorerions recevoir de nouveaux feedbacks pour améliorer le classement des
 
 **On ne peut jamais prévoir l'usage que vont faire les utilisateurs d'un produit**
 
-En construisant un outil on imagine souvent quelques cas d'utilisation limités. Finalement, l'utilisateur qui découvre le produit emprunte des chemins qu'on n'imaginait pas une seconde en concevant l'outil.
+En construisant un outil on imagine souvent quelques cas d'utilisation limités. Finalement, l'utilisateur qui découvre le produit emprunte des chemins qu'on n'imaginait pas en concevant l'outil.
 
 Par exemple, nous avons été surpris de voir que dans 80% des cas, la première recherche que fait un visiteur est le nom d'une entreprise qu'il connaît pour tester le moteur. Nous avons ainsi dû adapter l'interface et l'algorithme pour que cette première expérience soit plus souvent réussie (en séparant notamment la recherche d'un nom d'entreprise).
 
