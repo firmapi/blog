@@ -32,7 +32,7 @@ Explorer avec un moteur de recherche présente plusieurs avantages :
 
 Il est toujours possible ensuite d'appliquer des filtres pour affiner la liste obtenue.
 
-Bref, ce sont les mêmes avantages qui ont fait qu'il y a 15 ans, les gens arrêté de naviguer sur le web en utilisant les annuaires et on commencé à utiliser les moteurs de recherche.
+Bref, ce sont les mêmes avantages qui ont fait qu'il y a 15 ans, les gens ont arrêté de naviguer sur le web en utilisant les annuaires et on commencé à utiliser les moteurs de recherche.
 
 <img src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-11-16/article.png" alt="Page de recherche Firmapi" class="img-responsive" />
 
