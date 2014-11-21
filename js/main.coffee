@@ -26,3 +26,47 @@ setCount = ($item, count = null) ->
   $item.attr "data-target-count", count
   $item.attr "data-current-count", 0
   countUp $item
+
+
+#
+# Only show Twitter alert for people that haven't closed it
+#
+
+$ ->
+  if readCookie('twitter_alert') == null
+    $("#twitter-alert").show()
+
+$ ->
+  $("#close-twitter-alert").click ->
+    createCookie("twitter_alert", "1", "60")
+    $("#twitter-alert").hide()
+
+#
+# Functions to work with cookies
+#
+
+createCookie = (name, value, days) ->
+  if days
+    date = new Date()
+    date.setTime date.getTime() + (days * 24 * 60 * 60 * 1000)
+    expires = "; expires=" + date.toGMTString()
+  else
+    expires = ""
+  document.cookie = name + "=" + value + expires + "; path=/"
+  return
+
+readCookie = (name) ->
+  nameEQ = name + "="
+  ca = document.cookie.split(";")
+  i = 0
+
+  while i < ca.length
+    c = ca[i]
+    c = c.substring(1, c.length)  while c.charAt(0) is " "
+    return c.substring(nameEQ.length, c.length)  if c.indexOf(nameEQ) is 0
+    i++
+  null
+
+eraseCookie = (name) ->
+  createCookie name, "", -1
+  return

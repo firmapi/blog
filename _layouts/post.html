@@ -15,6 +15,11 @@ layout: default
         <div class="share-buttons">
           {% include share-buttons.html %}
         </div>
+        <div id="twitter-alert">
+          <div class="wording">Rejoignez-nous sur Twitter</div>
+          <a href="https://twitter.com/_Firmapi" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="large">Suivre @_Firmapi</a>
+          <div id="close-twitter-alert" class="fa fa-close"></div>
+        </div>
         <article class="article-body">
           {{ content }}
           <hr class="article-end-line">
@@ -41,3 +46,6 @@ layout: default
     </div>
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
   </div>
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
