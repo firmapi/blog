@@ -71,7 +71,7 @@ HOME
 }
 
 .col-left-home {
-  margin-top: 45px;
+  margin-top: 30px;
 }
 
 /*
@@ -85,7 +85,7 @@ NAVBAR
 
 .navbar-default {
   background-color: #FFF;
-  border: 1px solid #EEE;
+  border: 1px solid #e5e5e5;
 }
 
 .navbar {
@@ -226,13 +226,11 @@ CTA HEADER
 .cta-header {
   text-align: center;
   font-size: 1.4em;
-  padding: 35px 0;
-  background-color: #172F49;
-  color: #fff;
+  padding: 40px 0;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #eee;
 
   input[name="q"] {
-    color: #333;
-    border: #777;
     width: 380px;
   }
 
@@ -240,12 +238,9 @@ CTA HEADER
     margin-bottom: 20px;
   }
 
-  input[type="submit"] {
-    color: #333;
-
-    &:hover {
-      background-color: #eee;
-    }
+  button {
+    padding-left: 40px;
+    padding-right: 40px;
   }
 }
 
@@ -407,6 +402,7 @@ h2.article-title {
   .wording {
     float: left;
     margin: 3px 20px 0 0;
+    font-weight: bold;
   }
 
   .fa-close {
