@@ -64,3 +64,7 @@ D'autre part, si on regarde le nombre total de tweets envoyés sur chaque compte
   80,9% des comptes d'entreprises ont envoyé moins de 1000 tweets
   <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/tweet?text=79%2C9%25%20des%20comptes%20d%27entreprises%20ont%20envoy%C3%A9%20moins%20de%201000%20tweets%20https://pic.twitter.com/c8GdJEwcM0&related=_Firmapi&via=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
+
+<div class="slideshare">
+  <iframe src="//www.slideshare.net/slideshow/embed_code/42346016" width="450" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
