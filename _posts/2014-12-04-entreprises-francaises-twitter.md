@@ -1,7 +1,7 @@
 ---
 layout: post
 seo_title: "Les entreprises françaises sur Twitter : statistiques"
-title: Voici ce que nous avons découvert en analysant plus de 100 000 entreprises françaises sur Twitter
+title: Ce que nous avons découvert en analysant plus de 100 000 entreprises françaises sur Twitter
 description: "Firmapi analyse de milliers de comptes sur les réseaux sociaux quotidiennement. Voici un aperçu de la présence des entreprises françaises sur Twitter."
 modified: 2014-12-05
 image: "https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_followers.png"
@@ -23,7 +23,7 @@ Voici les résultats que nous avons obtenu en parcourant un échantillon de 102 
 
 La première chose à avoir en tête si on souhaite développer son marketing B2B sur Twitter, c'est que l'on ne touche qu'une petite partie de sa cible potentielle. En effet, seulement 11,3% des entreprises françaises possédant un site web ont également un compte Twitter.
 
-<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_presence.png" />
+<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_presence.png" class="img-responsive">
 
 <div class="click-to-tweet">
   11,3% des entreprises françaises ayant un site web ont un compte Twitter
@@ -36,7 +36,7 @@ Toutefois, la présence sur Twitter dépend sensiblement du secteur d'activité.
 
 Sans surprise, le nombre de followers est très inégal. Quasiment la moitié des comptes d'entreprises ont moins de 100 followers sur Twitter !
 
-<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_followers.png" />
+<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_followers.png" class="img-responsive">
 
 <div class="click-to-tweet">
   49,9% des entreprises françaises ont moins de 100 followers sur Twitter
@@ -49,7 +49,7 @@ Qu'en est-il de l'activité des comptes d'entreprises ? Les résultats montrent 
 
 D'un autre côté, on peut noter que 16,9% des entreprises ont créé un compte mais n'en ont encore pas fait usage pour communiquer.
 
-<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_dernier_tweet.png" />
+<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_dernier_tweet.png" class="img-responsive">
 
 <div class="click-to-tweet">
   47% des entreprises françaises ont tweeté les 7 derniers jours
@@ -58,9 +58,9 @@ D'un autre côté, on peut noter que 16,9% des entreprises ont créé un compte 
 
 D'autre part, si on regarde le nombre total de tweets envoyés sur chaque compte, les profils sont assez variés. Près de 80% des comptes restent toutefois sous la barre des 1000 tweets envoyés.
 
-<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_tweets.png" />
+<img alt="Présence sur Twitter des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_tweets.png" class="img-responsive">
 
 <div class="click-to-tweet">
-  79,9% des comptes d'entreprises ont envoyé moins de 1000 tweets
+  80,9% des comptes d'entreprises ont envoyé moins de 1000 tweets
   <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/tweet?text=79%2C9%25%20des%20comptes%20d%27entreprises%20ont%20envoy%C3%A9%20moins%20de%201000%20tweets%20https://pic.twitter.com/c8GdJEwcM0&related=_Firmapi&via=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
