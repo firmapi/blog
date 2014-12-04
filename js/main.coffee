@@ -41,6 +41,15 @@ $ ->
     createCookie("twitter_alert", "1", "60")
     $("#twitter-alert").hide()
 
+
+#
+# Twitter quotes
+#
+
+$ ->
+  $(".tweet-link").tooltip()
+
+
 #
 # Functions to work with cookies
 #

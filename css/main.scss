@@ -529,3 +529,23 @@ FOOTER
     margin-right: 10px;
   }
 }
+
+
+// ======================
+// === Click To Tweet ===
+// ======================
+
+
+.click-to-tweet {
+  background-color: #f5f5f5;
+  border: 1px solid #eee;
+  color: #555;
+  padding: 15px 20px;
+  margin: 30px 0;
+
+  .tweet-link {
+    float: right;
+    color: #4099FF;
+    border: 0;
+  }
+}

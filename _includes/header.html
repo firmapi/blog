@@ -21,6 +21,12 @@
             <li><a href="/category/vente"><strong><i class="fa fa-briefcase"></i> Vente</strong></a></li>
           {% endif %}
 
+          {% if page.tag == 'marketing' || page.tag == 'marketing' %}
+            <li><a href="/category/marketing" class="active"><strong><i class="fa fa-line-chart"></i> Marketing</strong></a></li>
+          {% else %}
+            <li><a href="/category/marketing"><strong><i class="fa fa-line-chart"></i> Marketing</strong></a></li>
+          {% endif %}
+
           {% if page.tag == 'technique' || page.tag == 'technique' %}
             <li><a href="/category/technique" class="active"><strong><i class="fa fa-cogs"></i> Technique</strong></a></li>
           {% else %}
