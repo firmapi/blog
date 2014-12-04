@@ -27,7 +27,7 @@ La première chose à avoir en tête si on souhaite développer son marketing B2
 
 <div class="click-to-tweet">
   11,3% des entreprises françaises ayant un site web ont un compte Twitter
-  <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href=""><i class="fa fa-twitter"></i></a>
+  <a class="tweet-link" data-original-title="Retweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/retweet?tweet_id=540301154098610176&related=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
 
 Toutefois, la présence sur Twitter dépend sensiblement du secteur d'activité. Les entreprises dans les médias, le web et les nouvelles technologies sont par exemple bien plus représentées.
@@ -40,7 +40,7 @@ Sans surprise, le nombre de followers est très inégal. Quasiment la moitié de
 
 <div class="click-to-tweet">
   49,9% des entreprises françaises ont moins de 100 followers sur Twitter
-  <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href=""><i class="fa fa-twitter"></i></a>
+  <a class="tweet-link" data-original-title="Retweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/retweet?tweet_id=540301833693310977&related=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
 
 ## Activité des comptes
@@ -53,7 +53,7 @@ D'un autre côté, on peut noter que 16,9% des entreprises ont créé un compte 
 
 <div class="click-to-tweet">
   47% des entreprises françaises ont tweeté les 7 derniers jours
-  <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href=""><i class="fa fa-twitter"></i></a>
+  <a class="tweet-link" data-original-title="Retweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/retweet?tweet_id=540302075075497986&related=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
 
 D'autre part, si on regarde le nombre total de tweets envoyés sur chaque compte, les profils sont assez variés. Près de 80% des comptes restent toutefois sous la barre des 1000 tweets envoyés.
@@ -62,5 +62,5 @@ D'autre part, si on regarde le nombre total de tweets envoyés sur chaque compte
 
 <div class="click-to-tweet">
   79,9% des comptes d'entreprises ont envoyé moins de 1000 tweets
-  <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href=""><i class="fa fa-twitter"></i></a>
+  <a class="tweet-link" data-original-title="Retweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/retweet?tweet_id=540302224728289280&related=_Firmapi"><i class="fa fa-twitter"></i></a>
 </div>
