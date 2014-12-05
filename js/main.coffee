@@ -43,6 +43,21 @@ $ ->
 
 
 #
+# Only show CTA header for people that haven't closed it
+#
+
+$ ->
+  if readCookie('cta_header') == null
+    $(".cta-header").show()
+
+$ ->
+  $("#close-cta-header").click ->
+    createCookie("cta_header", "1", "15")
+    $(".cta-header").hide()
+
+
+
+#
 # Twitter quotes
 #
 
