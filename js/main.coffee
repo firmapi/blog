@@ -3,13 +3,13 @@
 
 url = document.URL
 
-$.getJSON "http://urls.api.twitter.com/1/urls/count.json?url=#{url}&callback=?", (json) ->
+$.getJSON "https://urls.api.twitter.com/1/urls/count.json?url=#{url}&callback=?", (json) ->
   setCount $(".twCount"), json.count
 
-$.getJSON "http://graph.facebook.com/#{url}", (json) ->
+$.getJSON "https://graph.facebook.com/#{url}", (json) ->
   setCount $(".fbCount"), json.shares
 
-$.getJSON "http://www.linkedin.com/countserv/count/share?url=#{url}&callback=?", (json) ->
+$.getJSON "https://www.linkedin.com/countserv/count/share?url=#{url}&callback=?", (json) ->
   setCount $(".liCount"), json.count
 
 countUp = ($item) ->
