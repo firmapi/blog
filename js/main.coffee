@@ -3,7 +3,7 @@
 
 url = document.URL
 
-$.getJSON "https://urls.api.twitter.com/1/urls/count.json?url=#{url}&callback=?", (json) ->
+$.getJSON "http://urls.api.twitter.com/1/urls/count.json?url=#{url}&callback=?", (json) ->
   setCount $(".twCount"), json.count
 
 $.getJSON "https://graph.facebook.com/#{url}", (json) ->
