@@ -1,0 +1,6 @@
+<div class="hidden-lg share-mobile">
+  <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title | uri_escape }}&related={{ page.author_twitter }},_Firmapi&via=_Firmapi" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Partager sur Twitter</a>
+  <a href="#" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ CGI::escape(page.title) }}&summary={{ CGI::escape(page.description) }}&source={{ CGI::escape(site.owner.name) }}" id="linkedin-btn" class="btn btn-linkedin social-btn"><i class="fa fa-linkedin"></i> Partager sur Linkedin</a>
+  <a href="#" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" id="facebook-btn" class="btn btn-fb social-btn"><i class="fa fa-facebook"></i> Partager sur Facebook</a>
+
+</div>
