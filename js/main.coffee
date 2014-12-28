@@ -1,33 +1,6 @@
 ---
 ---
 
-url = document.URL
-
-$.getJSON "http://urls.api.twitter.com/1/urls/count.json?url=#{url}&callback=?", (json) ->
-  setCount $(".twCount"), json.count
-
-$.getJSON "https://graph.facebook.com/#{url}", (json) ->
-  setCount $(".fbCount"), json.shares
-
-$.getJSON "https://www.linkedin.com/countserv/count/share?url=#{url}&callback=?", (json) ->
-  setCount $(".liCount"), json.count
-
-countUp = ($item) ->
-  setTimeout () ->
-    current = $item.attr("data-current-count") * 1
-    target = $item.attr("data-target-count") * 1
-    newCount = current + Math.ceil (target - current) / 2
-    $item.attr "data-current-count", newCount
-    $item.html newCount
-    countUp $item if newCount < target
-  , 100
-
-setCount = ($item, count = null) ->
-  $item.attr "data-target-count", count
-  $item.attr "data-current-count", 0
-  countUp $item
-
-
 #
 # Only show Twitter alert for people that haven't closed it
 #
@@ -38,8 +11,8 @@ $ ->
 
 $ ->
   $("#close-twitter-alert").click ->
-    createCookie("twitter_alert", "1", "60")
     $("#twitter-alert").hide()
+    createCookie("twitter_alert", "1", "60")
 
 
 #

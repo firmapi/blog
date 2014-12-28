@@ -4,18 +4,18 @@ layout: default
 
 <div class="container home-body">
   <div class="row">
-    <div class="col-lg-1 visible-lg">
+    <div class="col-md-1 visible-md  visible-lg">
     </div>
-    <div class="col-lg-1 visible-lg share-col">
+    <div class="col-md-1 visible-md  visible-lg share-col">
       <div class="share-buttons">
       {% include share-buttons.html %}
       </div>
     </div>
-    <div class="col-lg-8 col-md-12">
+    <div class="col-md-8 col-sm-12">
       <div class="article-col">
         <h1 class="article-title article-title-page">{{ page.title }}</h1>
         {% include share-mobile.html %}
-        <div id="twitter-alert" class="visible-lg">
+        <div id="twitter-alert" class="hidden-xs hidden-sm hidden-md">
           <div class="wording">Rejoignez-nous sur Twitter</div>
           <a href="https://twitter.com/_Firmapi" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="large">Suivre @_Firmapi</a>
           <div id="close-twitter-alert" class="fa fa-close"></div>
@@ -45,7 +45,7 @@ layout: default
         </script>
         </div>
       </div>
-      <div class="col-lg-1 visible-lg">
+      <div class="col-md-1 visible-md visible-lg">
       </div>
     </div>
   </div>
