@@ -1,7 +1,7 @@
 ---
 layout: post
-seo_title: "Les entreprises françaises sur Twitter : statistiques"
-title: "Les résultats étonnants de notre analyse de 100&nbsp;000 entreprises françaises sur Twitter"
+title: "Les entreprises françaises sur Twitter : statistiques"
+social_title: "Les résultats étonnants de l'analyse de 100 000 entreprises françaises sur Twitter"
 description: "Firmapi analyse des milliers de comptes sur les réseaux sociaux quotidiennement. Voici un aperçu de la présence des entreprises françaises sur Twitter."
 modified: 2014-12-05
 image: "https://d144bz4d6i1vob.cloudfront.net/blog/2014-12-04/short_twitter_nombre_followers.png"

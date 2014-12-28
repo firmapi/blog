@@ -1,13 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>
-    {% if page.seo_title %}
-        {{ page.seo_title }}
-    {% else %}
-        {{ page.title | replace: '!CATEGORY!', page.tag }}
-    {% endif %}
-    </title>
+    <title>{{ page.title | replace: '!CATEGORY!', page.tag }}</title>
 
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
@@ -35,11 +29,17 @@
     <!-- Open Graph -->
     <meta property="og:locale" content="fr_FR">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.description }}">
     <meta property="og:image" content="{{ page.image }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
+
+    {% if page.social_title %}
+        <meta property="og:title" content="{{ page.social_title }}">
+    {% else %}
+        <meta property="og:title" content="{{ page.title }}">
+    {% endif %}
+
 
     <!-- Favicon -->
     <link href="https://d144bz4d6i1vob.cloudfront.net/firmapi/favicon.png" rel="icon" type="image/png" />
