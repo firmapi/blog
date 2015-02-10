@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "La recherche Firmapi évolue"
-description: ""
+description: "Nous avons revu la recherche pour la rendre toujours plus efficace et simple d'utilisation. Voici quelles sont les nouveautés."
 modified: 2014-12-05
-image: ""
+image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-02-10/firmapi-filters.png"
 tag: "firmapi"
 tag_pretty_name: "Firmapi"
 
