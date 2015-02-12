@@ -297,11 +297,13 @@ CTA HEADER
   border-bottom: 1px solid #eee;
   display: none;
 
-  input[name="q"] {
-    width: 380px;
+  h2 {
+    margin: 10px 0 5px 0;
   }
 
-  p {
+  .subtitle {
+    color: #888;
+    font-size: 1.1em;
     margin-bottom: 20px;
   }
 
