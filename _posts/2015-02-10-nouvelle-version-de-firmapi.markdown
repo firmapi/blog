@@ -25,7 +25,7 @@ Notre parti pris au <a href="https://blog.firmapi.com/pourquoi-moteur-de-recherc
 
 ## Ce qu'il y a de nouveau
 
-Nous avons repensé la <a href="https://firmapi.com/advanced_search">recherche</a> pour la rendre à la fois souple et simple d'utilisation, quelque soit le besoin.
+Nous avons repensé la <a href="https://firmapi.com/advanced_search">recherche</a> pour la rendre à la fois souple et simple d'utilisation, quel que soit le besoin.
 
 Nous conservons la possibilité de rechercher des entreprises en utilisant un mot clé, mais mettons également en avant la sélection de codes NAF qui peuvent être dans certains cas la méthode la plus efficace.
 
