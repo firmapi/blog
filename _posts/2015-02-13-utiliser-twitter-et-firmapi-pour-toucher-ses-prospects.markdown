@@ -52,3 +52,9 @@ J'ai également ajouté des temps d'attentes entre chaque action pour s'assurer 
 
 **Attention !**
 Veillez à ne pas faire un suivi trop massif pour rester sous les radars de Twitter. Ne suivez pas plus de quelques centaines de comptes toutes les 24 heures. Si votre liste est plus importante, faites un découpage en plusieurs jours. Si votre compte est récent, soyez encore plus prudent (le seuil de tolérance est plus bas).
+
+## N'oubliez pas de travailler votre profil
+
+Pour que cette action sur Twitter soit efficace, travaillez au maximum la description de votre compte Twitter. Le taux de *follow back* est généralement entre 20 et 30%, mais variera sensiblement en fonction de la pertinence de votre profil par rapport à votre cible. Il en est de même pour le taux de personnes visitant votre site après vous avoir vu sur Twitter.
+
+A vous de jouer !
