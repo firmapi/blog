@@ -4,7 +4,7 @@ title: "Comment toucher toutes les entreprises de son secteur sur Twitter en 10 
 description: "Voici comment utiliser Twitter et Firmapi pour lancer une action ciblée auprès de clients potentiels en quelques minutes."
 modified: 2014-12-05
 image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-02-13/format_csv_comptes_twitter.png"
-tag: "firmapi"
+tag: "marketing"
 tag_pretty_name: "Marketing"
 
 author: François Grante
@@ -17,7 +17,7 @@ Twitter est un outil précieux en B2B pour attirer l'attention et créer une pre
 
 ## Etape 1 : Générez une liste de comptes Twitter d'entreprises parfaitement ciblées
 
-Une technique courante est de lister les comptes en faisant une recherche dans les descriptions des comptes, avec des outils tels que <a href="https://followerwonk.com/" target="_blank">Followerwonk</a>. Le problème est que les résultats sont très aléatoires. En effet, il est très difficile de trouver un mot clé commun utilisé par les entreprises ciblées dans leurs description.
+Une technique courante est de lister les comptes en faisant une recherche dans les descriptions des comptes, avec des outils tels que <a href="https://followerwonk.com/" target="_blank">Followerwonk</a>. Le problème est que les résultats sont très aléatoires ; il est très difficile de trouver un mot clé commun utilisé par les entreprises ciblées dans leurs descriptions.
 
 C'est pourquoi je vous propose d'utiliser <a href="https://firmapi.com">Firmapi</a>. Vous pourrez générer une liste exhaustive de comptes Twitter d'entreprises correspondant exactement à vos critères (secteur, localisation, chiffre d'affaires, date de création...etc.).
 
