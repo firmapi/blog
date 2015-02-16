@@ -37,7 +37,7 @@ Si vous ne souhaitez pas commander de fichier mais tester quand même la techniq
 
 Pour cela, nous allons utiliser <a href="https://addons.mozilla.org/fr/firefox/addon/imacros-for-firefox/" target="_blank">iMacros</a> sur Firefox (je vous déconseille l'extension Chrome qui est peu stable). iMacros est une extension bien pratique permettant d'automatiser toutes sortes de tâches sur son navigateur.
 
-Installez l'extension puis cliquez sur le bouton iMacros dans le navigateur qui ouvrira une interface sur votre gauche. Faites un clic droit sur *#Current.iim* puis "Editer la Macro". Puis collez le code suivant :
+Installez l'extension puis cliquez sur le bouton iMacros dans le navigateur qui ouvrira une interface sur votre gauche. Faites un clic droit sur *#Current.iim* puis "Editer la Macro". Collez le code suivant :
 
 <script src="https://gist.github.com/FGrante/f7b906353940677bf88d.js"></script>
 
@@ -53,7 +53,7 @@ J'ai également ajouté des temps d'attentes entre chaque action pour s'assurer 
 **Attention !**
 Veillez à ne pas faire un suivi trop massif pour rester sous les radars de Twitter. Ne suivez pas plus de quelques centaines de comptes toutes les 24 heures. Si votre liste est plus importante, faites un découpage en plusieurs jours. Si votre compte est récent, soyez encore plus prudent (le seuil de tolérance est plus bas).
 
-## N'oubliez pas de travailler votre profil
+## La clé : un profil pertinent par rapport à votre cible
 
 Pour que cette action sur Twitter soit efficace, travaillez au maximum la description de votre compte Twitter. Le taux de *follow back* est généralement entre 20 et 30%, mais variera sensiblement en fonction de la pertinence de votre profil par rapport à votre cible. Il en est de même pour le taux de personnes visitant votre site après vous avoir vu sur Twitter.
 
