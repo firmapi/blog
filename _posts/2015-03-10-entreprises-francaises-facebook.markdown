@@ -34,7 +34,7 @@ La présence sur Facebook est très variable en fonction du secteur d'activité.
 
 ## Nombre de likes
 
-Le nombre de suivi est assez inégal : la majorité des entreprises ont moins de 500 likes sur leur page alors que 5,2% en comptent plus de 10 000.
+Le nombre de suivis est assez inégal : la majorité des entreprises ont moins de 500 likes sur leur page alors que 5,2% en comptent plus de 10 000.
 
 <img alt="Nombre de likes des entreprises françaises sur Facebook" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-10/facebook_likes_short.png" class="img-responsive">
 
@@ -48,7 +48,7 @@ Le nombre de suivi est assez inégal : la majorité des entreprises ont moins de
 
 Sans surprise, la présence des entreprises sur Facebook dépend énormement du secteur d'acitivté.
 
-Ainsi, les activitées locales (commerces, restaurants et hôtels notamment) sont particulièrement présentes. On peut également noter que les entreprises ayant une page Facebook sont majoritairement B2C, bien que que cela se développe en B2B, par exemple dans le web et le consulting.
+Ainsi, les activités locales (commerces, restaurants et hôtels notamment) sont particulièrement présentes. On peut également noter que les entreprises ayant une page Facebook sont majoritairement dans le B2C, bien que que cela se développe en B2B, par exemple dans le web et le consulting.
 
 <img alt="Catégories des pages Facebook des entreprises françaises" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-10/facebook_categories_short.png" class="img-responsive">
 
