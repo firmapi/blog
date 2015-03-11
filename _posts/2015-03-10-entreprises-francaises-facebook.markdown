@@ -15,7 +15,7 @@ gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=
 ---
 
 
-Firmapi parcours le web tous les jours pour enrichir et mettre à jour les informations sur les entreprises françaises. Parmi ces données, nous analysons notamment les comptes des entreprises sur les réseaux sociaux. Après avoir fait une [première étude sur la présence des entreprises sur Twitter](https://blog.firmapi.com/entreprises-francaises-twitter/), nous nous sommes aujourd'hui intéressés à Facebook.
+Firmapi parcourt le web tous les jours pour enrichir et mettre à jour les informations sur les entreprises françaises. Parmi ces données, nous analysons notamment les comptes des entreprises sur les réseaux sociaux. Après avoir fait une [première étude sur la présence des entreprises sur Twitter](https://blog.firmapi.com/entreprises-francaises-twitter/), nous nous sommes aujourd'hui intéressés à Facebook.
 
 Voici les résultats que nous avons obtenu en parcourant un échantillon de **78 000 entreprises françaises** ayant un site web.
 
