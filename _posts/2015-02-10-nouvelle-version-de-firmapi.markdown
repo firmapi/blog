@@ -43,7 +43,7 @@ Nous avons ajouté de nouveaux filtres afin d'aider les utilisateurs à obtenir 
 <img alt="Filtres de recherche" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-02-10/firmapi-filters.png" class="img-responsive">
 
 **Chiffre d'affaires** :
-C'est sans doute la fonctionnalité qui nous a été la plus demandée. C'est maintennant chose faite.
+C'est sans doute la fonctionnalité qui nous a été la plus demandée. C'est maintenant chose faite.
 
 **Année de création de l'entreprise**:
 Envie de n'avoir que les entreprises récemment créées ? Ce filtre vous permet de le faire en un instant.
