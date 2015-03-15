@@ -4,7 +4,7 @@ title: "Comment récupérer des adresses email directement sur Twitter"
 social_title: "Comment récupérer des adresses email directement sur Twitter"
 description: "Une des fonctionnalités les plus intéressantes de Twitter est assez méconnue. Elle permet pourtant de recupérer des leads directement sur le réseau social !"
 modified: 2015-03-10
-image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/twitter-cards-dashboard.png"
+image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/lead-generation-twitter-card-example.png"
 tag: "marketing"
 tag_pretty_name: "Marketing"
 
