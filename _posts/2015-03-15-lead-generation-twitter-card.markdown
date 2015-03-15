@@ -14,7 +14,7 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
-Saviez-vous que vous pouvez ajouter des *call to action* à vos tweets ? Mieux, saviez-vous que vous pouviez récupérer des adresses emails directement dans Twitter ?
+Saviez-vous que vous pouvez ajouter des *call to action* à vos tweets ? Mieux, saviez-vous que vous pouviez récupérer des adresses email directement dans Twitter ?
 
 Voici comment faire, pas à pas.
 
@@ -91,7 +91,7 @@ Les utilisations possibles de cette fonctionnalité sont multiples :
 * Inscription à une liste d'attente / Beta
 * ...
 
-Notez que dans cet article je décris le cas d'inscriptions d'email, mais il y a d'autres aperçus de tweets possibles comme la présentation d'un site web ou le téléchargement d'applications !
+Notez que dans cet article je décris le cas de l'inscription à une newsletter, mais il y a d'autres aperçus de tweets possibles comme la présentation d'un site web ou le téléchargement d'applications !
 
 À vous de jouer !
 
