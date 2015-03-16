@@ -20,11 +20,11 @@ Voici comment faire, pas à pas.
 
 <img alt="Tableau de bord des Twitter Cards" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/lead-generation-twitter-card-example.png" class="img-responsive">
 
-## À la recherche des "Lead Generation Twitter Cards" gratuites
+## À la recherche des "Lead Generation Twitter Cards"
 
 Twitter appelle cette fonctionnalité les "Lead Generation Twitter Cards". Ce n'est pas nouveau mais très méconnu pour deux raisons :
 
-* L'interface de gestion est très peu accessible
+* L'interface de gestion est peu accessible
 * La grande majorité des gens pensent qu'avoir ce type de personnalisations est payant (faux !)
 
 Tout d'abord, rendez-vous dans votre espace dédié aux publicités Twitter (<a href="https://ads.twitter.com/" target="_blank">https://ads.twitter.com/</a>), connecté avec le compte sur lequel vous souhaitez travailler.
@@ -43,8 +43,7 @@ C'est ici que nous allons pouvoir créer notre modèle de tweets qui récupère 
 
 <img alt="Tableau de bord des Twitter Cards" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/twitter-cards-dashboard.png" class="img-responsive">
 
-
-*Note* : Je donne ici volontairement le chemin avec les URL car la navigation est très peu intuitive et l'interface à laquelle nous souhaitons accéder n'est pas &ndash; semble-t-il &ndash; affichée dans le menu chez tous les utilisateurs. C'est donc notre petit secret ;)
+*Note* : Je donne ici volontairement le chemin avec les URL car la navigation est très peu intuitive et l'interface à laquelle nous souhaitons accéder n'est pas &ndash; semble-t-il &ndash; affichée dans le menu chez tous les utilisateurs. C'est notre petit secret ;)
 
 ## Personnalisation de la Twitter Card
 
@@ -58,6 +57,8 @@ Vous pourrez ainsi personnaliser :
 * Une image de dimension 800*200 pixels
 * L'intitulé du *call to action*
 
+*Note* : Si l'upload de l'image ne fonctionne pas, c'est probablement lié à Adblock. Désactivez-le pour l'occasion.
+
 Vous pourrez aussi configurer d'autres options comme une redirection vers une page personnalisée suite à l'inscription ou encore l'ajout de données personnalisées.
 
 Enfin, un lien vers votre politique de confidentialité et l'acceptation des conditions de Twitter sur ce service seront nécessaires.
@@ -70,7 +71,9 @@ Il ne vous reste plus qu'à publier votre premier tweet avec la Twitter Card dep
 
 La Twitter Card s'affichera sur twitter.com ainsi que les clients iOS et Android. Pour les autres clients, l'aperçu sera remplacé par le lien de la Twitter Card qui amène à votre offre.
 
-Voici un aperçu sur mobile (Android) :
+Voici <a href="https://twitter.com/_Firmapi/status/577125965454708736" target="_blank">**un aperçu**</a> sur l'application web de Twitter.
+
+Et voici ce que ça donne sur mobile (Android) :
 
 <img style="max-width: 400px;" alt="Exemple de Twitter Card sur Android" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/lead-generation-twitter-card-android.png" class="img-responsive">
 
