@@ -108,9 +108,15 @@ NAVBAR
 
   .blog-brand {
     font-weight: bold;
-    margin-left: 15px;
+    margin-left: 5px;
     font-size: 14px;
   }
+}
+
+.backtowebsite {
+  margin-top: 35px;
+  display: block;
+  float: left;
 }
 
 /*
@@ -335,7 +341,7 @@ MENU
 
 .navbar-nav a {
   display: inline-block;
-  padding: 25px 35px !important;
+  padding: 25px 30px !important;
   font-size: 1.2em;
   color: #555 !important;
 
