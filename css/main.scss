@@ -287,12 +287,17 @@ CTA HEADER
 */
 
 #category_name {
-  text-align: center;
-  margin: 20px auto;
-  width: 50%;
+  margin: 0 0 60px 0;
   padding-bottom: 10px;
-  border-bottom: 1px solid #bbb;
-  font-size: 1.8em;
+  border-bottom: 1px solid #ddd;
+  font-size: 4em;
+
+  .cat_title_mention {
+    color: #aaa;
+    font-size: 0.4em;
+    font-weight: normal;
+    margin-left: 10px;
+  }
 }
 
 .cta-header {
@@ -305,6 +310,12 @@ CTA HEADER
 
   h2 {
     margin: 10px 0 5px 0;
+  }
+
+  .btn-primary {
+    &:hover {
+      border: 0;
+    }
   }
 
   .subtitle {
@@ -337,6 +348,10 @@ MENU
 
 .navbar-nav li, .navbar-nav a {
   height: 75px;
+}
+
+.navbar {
+  border-radius: 0;
 }
 
 .navbar-nav a {
