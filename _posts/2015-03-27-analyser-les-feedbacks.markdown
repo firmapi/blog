@@ -28,19 +28,19 @@ Voici quelques filtres que vous pouvez appliquer.
 
 ### 1. Qui est l'utilisateur qui vous fait un retour ?
 
-Il est important de parvenir à en savoir plus sur ses les personnes qui vous font leur retour. Sont-ils dans votre cible ? Ont-ils une expertise particulière ?
+Il est important de parvenir à en savoir plus sur les personnes qui vous font leur retour. Sont-ils dans votre cible ? Ont-ils une expertise particulière ?
 
 Par exemple, nous avons déjà eu des feedbacks de personnes utilisant Firmapi pour leur recherche d'emploi. Ces utilisateurs aimeraient obtenir les annonces d'emploi pour chaque entreprise. Mais comme cela ne correspond pas à notre cible, nous avons fixé une faible priorité sur ces feedbacks.
 
-### 2. Quelle utlisation de votre produit a-t-il déjà eu ?
+### 2. Jusqu'où l'utilisateur est-il allé ?
 
-La portée que vous devez accorder aux feedbacks doit toujours être limitée à l'étape à laquelle l'utilisateur se trouve.
+L'importance que vous devez accorder aux feedbacks doit toujours être limitée à l'étape à laquelle l'utilisateur se trouve.
 
 Exemple : un utilisateur visitant pour la première fois votre site vous dit qu'il aimerait bien avoir une fonctionnalité en particulier. Il se trouve que votre produit répond à son problème (même si ce n'est pas exactement la fonctionnalité qu'il imagine). Ce feedback ne doit donc pas vous pousser à modifier le produit, mais peut-être à améliorer votre site pour mieux présenter les bénéfices de votre solution.
 
 A l'inverse, quelqu'un utilisant votre service depuis plusieurs mois pourra apporter des remarques qui doivent affecter directement votre réflexion sur le produit.
 
-### 3. Quelle est la fréquence de ce même feedback ?
+### 3. À quelle fréquence revient ce feedback ?
 
 Il va de soit qu'un feedback récurrent est à prendre avec d'autant plus d'attention. C'est généralement un très bon indicateur pour définir les points d'amélioration les plus importants à traiter.
 
@@ -78,24 +78,24 @@ Une mauvaise interprétation du Lean Startup peut vous amener à penser que les 
 
 Pour prendre les meilleures décisions, il est important d'avoir un peu de recul et une vision globale de vos feedbacks.
 
-Cela vous évitera de vous lancer dans des implémentations dont on vous a convaincu de l'intérêt, pour vous rendre compte un peu plus tard qu'elles sont peu utile à vos utilisateurs.
+Cela vous évitera de vous lancer dans des implémentations dont on vous a convaincu de l'intérêt, pour vous rendre compte un peu plus tard qu'elles sont peu utiles à vos utilisateurs.
 
 Pour cela, tenez un tableau de bord où vous enregistrez chaque feedback avec :
 
-* Le contenu de la demande : traduisez le besoin par une description courte de la fonctionnalité qu'il faut développer pour répondre au besoin.
-* La classification de l'utilisateur faisant le feedback : nouvel utilisateur, utilisateur régulier, utilisateur payant... etc. (à personnaliser en fonction de votre tunnel de conversion).
-* L'impact qu'aurait l'amélioration sur votre produit. Fixez-vous une echelle, de 1 à 10 par exemple.
-* La difficulté / l'importance des ressources à mobiliser pour déployer la fonctionnalité. Fixez également une échelle d'importance.
-* De quoi contacter l'auteur si vous avez besoin d'en savoir plus
+* Le contenu de la demande : traduisez le besoin par une description courte de la fonctionnalité qu'il faut développer pour répondre au besoin ;
+* La classification de l'utilisateur faisant le feedback : nouvel utilisateur, utilisateur régulier, utilisateur payant... etc. (à personnaliser en fonction de votre tunnel de conversion) ;
+* L'impact qu'aurait l'amélioration sur votre produit. Fixez-vous une echelle, de 1 à 10 par exemple ;
+* La difficulté / l'importance des ressources à mobiliser pour déployer la fonctionnalité. Fixez également une échelle d'importance ;
+* De quoi contacter l'auteur si vous avez besoin d'en savoir plus.
 
 <img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-27/feedbacks-spreadsheet.png" alt="Tableau de bord des feedbacks sur Google Spreadsheet">
 
 Ensuite, regroupez les feedbacks identiques. Pour chacun, vous pouvez calculer un score dépendant :
 
-* Du nombre de demandes
-* Du profil des utilisateurs qui ont fait cette demande
-* De l'impact qu'apporterait l'amélioration
-* Et enfin de la difficulté de développement
+* Du nombre de demandes ;
+* Du profil des utilisateurs qui ont fait cette demande ;
+* De l'impact qu'apporterait l'amélioration ;
+* Et enfin de la difficulté de développement.
 
 Il n'y a plus qu'à classer les feedbacks par score décroissant. Vous savez maintenant vers quoi orienter vos efforts !
 
