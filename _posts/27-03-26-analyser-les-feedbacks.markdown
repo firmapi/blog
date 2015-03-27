@@ -4,7 +4,7 @@ title: "Donner du sens aux feedbacks"
 social_title: "Comment donner du sens aux feedbacks de vos utilisateurs"
 description: "Collecter beaucoup de feedbacks est une chose. Savoir les analyser pour prendre les meilleures décisions en est une autre."
 modified: 2015-03-27
-image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-27/zopim.png"
+image: "https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-27/get-feedbacks-zopim.png"
 tag: "marketing"
 tag_pretty_name: "Marketing"
 
