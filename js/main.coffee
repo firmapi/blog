@@ -39,6 +39,14 @@ $ ->
 
 
 #
+# Scroll to fixed on share bar
+#
+
+$ ->
+  $('.share-col').scrollToFixed({ marginTop: 20 })
+
+
+#
 # Functions to work with cookies
 #
 
