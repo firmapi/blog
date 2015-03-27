@@ -47,6 +47,14 @@ $ ->
 
 
 #
+# Scroll to fixed on newsletter
+#
+
+$ ->
+  $('.cta_left').scrollToFixed({ marginTop: 20 })
+
+
+#
 # Functions to work with cookies
 #
 
