@@ -22,19 +22,17 @@ Dans cet article je ne parlai donc pas des nombreuses façons de récolter du fe
 
 ## Tous les retours n'ont pas la même valeur
 
-Cela paraît assez évident dit comme ça, mais parvenir à identifier les remarques les plus importants parmi les nombreux retours que vous avez peut être assez complexe.
+Cela paraît assez évident dit comme ça, mais parvenir à identifier les remarques les plus importantes parmi les nombreux retours que vous avez peut être assez complexe.
 
 Voici quelques filtres que vous pouvez appliquer.
 
 ### 1. Qui est l'utilisateur qui vous fait un retour ?
 
-Il est important de parvenir à en savoir plus sur ses les personnes qui vous font leur retour. Sont-ils dans votre cible ? Ont-ils une expertise particulière ?
+Il est important de parvenir à en savoir plus sur les personnes qui vous donnent leur feedback. Sont-elles dans votre cible ? Ont-elles une expertise particulière ?
 
 Par exemple, nous avons déjà eu le feedback de personnes utilisant Firmapi pour leur recherche d'emploi. Ces utilisateurs aimeraient obtenir les annonces d'emploi pour chaque entreprise. Mais comme cela ne correspond pas à notre cible, nous avons fixé une faible priorité sur ce feedback.
 
-Il vaut mieux satisfaire entièrement un groupe
-
-### 2. Quelle utlisation de votre produit a-t-il déjà eu ?
+### 2. Jusqu'où l'utilisateur est-il allé ?
 
 La portée que vous devez accorder au feedback doit toujours être limitée à l'étape à laquelle l'utilisateur se trouve.
 
@@ -42,7 +40,7 @@ Exemple : un utilisateur visitant pour la première fois votre site vous dit qu'
 
 A l'inverse, quelqu'un utilisant votre service depuis plusieurs mois pourra apporter des remarques qui doivent affecter directement votre réflexion sur le produit.
 
-### 3. Quelle est la fréquence de ce même feedback ?
+### 3. À quelle fréquence revient ce feedback ?
 
 Il va de soit qu'un feedback récurrent est à prendre avec d'autant plus d'attention. C'est généralement un très bon indicateur pour définir les points d'amélioration les plus importants à traiter.
 
@@ -71,20 +69,15 @@ Une mauvaise interprétation du Lean Startup peut vous amener à penser que les 
 
 > "Si j’avais demandé aux gens ce qu’ils voulaient, ils m’auraient répondu des chevaux plus rapides" -Henri Ford
 
-<div class="click-to-tweet">
-  Le feedback sert à identifier les besoins, mais c'est à vous de savoir comment y répondre au mieux.
-  <a class="tweet-link" data-original-title="Tweeter ça" data-placement="top" data-toggle="tooltip" href="https://twitter.com/intent/tweet?text=Le%20feedback%20sert%20%C3%A0%20identifier%20les%20besoins%2C%20mais%20c%27est%20%C3%A0%20vous%20de%20savoir%20comment%20y%20r%C3%A9pondre%20au%20mieux.&url=http://blog.firmapi.com/entreprises-francaises-facebook/&related=_Firmapi&via=_Firmapi"><i class="fa fa-twitter"></i></a>
-</div>
-
 ## Centraliser tous les retours
 
 Pour prendre les meilleures décisions, il est important d'avoir un peu de recul et une vision globale de retours.
 
-Cela vous évitera de vous lancer dans des implémentations dont on vous a convaincu de l'intérêt, pour vous rendre compte un peu plus tard qu'elles sont peu utile à vos utilisateurs.
+Cela vous évitera de vous lancer dans des implémentations dont on vous a convaincu de l'intérêt, pour vous rendre compte un peu plus tard qu'elles sont peu utiles à vos utilisateurs.
 
-Pour cela, tenez un tableau de bord où vous enregistrez chaque feedback avec :
+Pour cela, tenez un tableau de bord où vous enregistrez chaque retour avec :
 
-* Le contenu de la demande : traduisez le besoin par une description courte de la fonctionnalité qu'il faut développer pour répondre au besoin.
+* Le contenu de la demande : traduisez par une description courte de la fonctionnalité qu'il faut développer pour répondre au besoin.
 * La classification de l'utilisateur faisant le feedback : nouvel utilisateur, utilisateur régulier, utilisateur payant... etc. (à personnaliser en fonction de votre tunnel de conversion).
 * L'impact qu'aurait l'amélioration sur votre produit. Fixez-vous une echelle, de 1 à 10 par exemple.
 * La difficulté / l'importance des ressources à mobiliser pour déployer la fonctionnalité. Fixez également une échelle d'importance.
