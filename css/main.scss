@@ -461,9 +461,10 @@ h2.article-title {
 }
 
 .article-body {
-  font-size: 20px;
+  font-size: 19px;
   line-height: 32px;
   margin-top: -5px;
+  color: #666;
 
   p {
     margin-bottom: 2rem;
@@ -489,7 +490,7 @@ h2.article-title {
 }
 
 h1 {
-  margin-bottom: 1.2em;
+  margin-bottom: 1em;
 }
 
 h2 {
@@ -498,6 +499,10 @@ h2 {
 
 h3 {
   margin: 1.5em 0 1em;
+}
+
+h1, h2, h3 {
+  color: #333;
 }
 
 .article-col img {
