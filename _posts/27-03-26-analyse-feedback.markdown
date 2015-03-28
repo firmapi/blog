@@ -16,7 +16,7 @@ gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=
 
 La recherche de feedback et la notion d'itération sont aujourd'hui profondément ancrées dans la culture des startups. Pourtant, prendre les bonnes décisions suite aux retours d'utilisateurs reste un véritable défi dont dépend directement le succès du produit.
 
-Dans cet article je ne parlai donc pas des nombreuses façons de récolter du feedback mais de comment réussir à les traiter pour fixer des priorités sur le développement produit.
+Dans cet article je ne parlerai donc pas des nombreuses façons de récolter du feedback mais de comment réussir à les traiter pour fixer des priorités sur le développement produit.
 
 <img class="img-responsive" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-27/get-feedbacks-zopim.png" alt="Tableau de bord des feedback sur Google Spreadsheet">
 
