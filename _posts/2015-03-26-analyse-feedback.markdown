@@ -30,7 +30,7 @@ Voici quelques filtres que vous pouvez appliquer.
 
 Il est important de parvenir à en savoir plus sur les personnes qui vous donnent leur feedback. Sont-elles dans votre cible ? Ont-elles une expertise particulière ?
 
-Par exemple, nous avons déjà eu le feedback de personnes utilisant Firmapi pour leur recherche d'emploi. Ces utilisateurs aimeraient obtenir les annonces d'emploi pour chaque entreprise. Mais comme cela ne correspond pas à notre cible, nous avons fixé une faible priorité sur ce feedback.
+Par exemple, nous avons déjà eu le feedback de personnes utilisant Firmapi pour leur recherche d'emploi. Ces utilisateurs aimeraient obtenir les annonces d'emploi pour chaque entreprise. Mais comme cela ne correspond pas à notre cible, nous avons fixé une faible priorité sur cette idée.
 
 ### 2. Jusqu'où l'utilisateur est-il allé ?
 
@@ -42,7 +42,7 @@ A l'inverse, quelqu'un utilisant votre service depuis plusieurs mois pourra appo
 
 ### 3. À quelle fréquence revient ce feedback ?
 
-Il va de soit qu'un feedback récurrent est à prendre avec d'autant plus d'attention. C'est généralement un très bon indicateur pour définir les points d'amélioration les plus importants à traiter.
+Il va de soit qu'un retour récurrent est à prendre avec d'autant plus d'attention. C'est généralement un très bon indicateur pour définir les points d'amélioration les plus importants à traiter.
 
 ## Distinguer besoin et fonctionnalité
 
