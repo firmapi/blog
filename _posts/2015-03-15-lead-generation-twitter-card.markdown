@@ -43,7 +43,7 @@ C'est ici que nous allons pouvoir créer notre modèle de tweets qui récupère 
 
 <img alt="Tableau de bord des Twitter Cards" src="https://d144bz4d6i1vob.cloudfront.net/blog/2015-03-15/twitter-cards-dashboard.png" class="img-responsive">
 
-*Note* : Je donne ici volontairement le chemin avec les URL car la navigation est très peu intuitive et l'interface à laquelle nous souhaitons accéder n'est pas &ndash; semble-t-il &ndash; affichée dans le menu chez tous les utilisateurs. C'est notre petit secret ;)
+*Note* : Je donne ici volontairement le chemin avec les URL car la navigation est très peu intuitive et l'interface à laquelle nous souhaitons accéder n'est pas &ndash; semble-t-il &ndash; affichée dans le menu chez tous les utilisateurs. C'est notre petit secret ;-)
 
 ## Personnalisation de la Twitter Card
 
@@ -53,7 +53,7 @@ En cliquant sur "Créer une carte de Génération de leads", vous arriverez sur 
 
 Vous pourrez ainsi personnaliser :
 
-* Une courte description de ce que vous proposez (50 caractère max.)
+* Une courte description de ce que vous proposez (50 caractères max.)
 * Une image de dimension 800*200 pixels
 * L'intitulé du *call to action*
 
