@@ -7,7 +7,7 @@ url: https://blog.firmapi.com
 
 # Build settings
 # markdown: kramdown
-permalink: /:title/
+permalink: /:title
 exclude: ["vendor"]
 
 # Pour les tags
