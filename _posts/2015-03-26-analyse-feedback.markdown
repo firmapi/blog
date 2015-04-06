@@ -71,7 +71,7 @@ Une mauvaise interprétation du Lean Startup peut vous amener à penser que les 
 
 ## Centraliser tous les retours
 
-Pour prendre les meilleures décisions, il est important d'avoir un peu de recul et une vision globale de retours.
+Pour prendre les meilleures décisions, il est important d'avoir un peu de recul et une vision globale des retours.
 
 Cela vous évitera de vous lancer dans des implémentations dont on vous a convaincu de l'intérêt, pour vous rendre compte un peu plus tard qu'elles sont peu utiles à vos utilisateurs.
 
