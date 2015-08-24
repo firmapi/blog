@@ -22,7 +22,7 @@ layout: default
         <article class="article-body">
           {{ content }}
           <hr class="article-end-line">
-          <p class="article-date pull-right visible-lg">Article publié le {{ page.date | date: "%-d/%m/%Y" }} dans <a class="comments-link" href="/category/{{ page.tag }}" title="Voir tous les articles classés dans {{ page.tag_pretty_name }}">{{ page.tag_pretty_name }}</a></p>
+          <p class="article-date pull-right visible-lg">Article publié le {{ page.date | date: "%-d/%m/%Y" }}.</p>
           <img class="author-pic" src="{{ page.gravatar }}" alt="{{ page.author }}" >
           <div class="author-name">{{ page.author }}<a href="https://twitter.com/{{ page.author_twitter }}" class="author-twitter" target="_blank"><i class="fa fa-twitter"></i></a></div>
 
