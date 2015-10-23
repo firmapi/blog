@@ -17,6 +17,6 @@ Cela fait maintenant preque 2 ans que nous cherchons à simplifier l'accès aux 
 
 Cette volonté prend aujourd'hui une nouvelle forme puisque nous venons de lancer [Corpinfo](https://corpinfo.fr) : un annuaire d'entreprises françaises.
 
-<img class="img-responsive" src="/images/corpinfo.png" alt="Page d'accueil de Corpinfo.fr">
+<img class="img-responsive" src="/images/corpinfo-screen.png" alt="Page d'accueil de Corpinfo.fr">
 
 Nos allons progressivement y ajouter d'avantage d'entreprises. La navigation s'améliorera également afin de vous permettre à la fois de trouver une société en particulier ou bien de générer une liste selon plusieurs critères. On vous invite donc à vous rendre sur [Corpinfo](https://corpinfo.fr), pour tout feedback nous sommes joignable à l'adresse bonjour@corpinfo.fr.
