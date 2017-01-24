@@ -13,13 +13,15 @@ author_google_plus: https://plus.google.com/106867543078418506526
 gravatar: https://secure.gravatar.com/avatar/341f6604232b625000deda790d8d39cd?d=mm&s=30&r=G
 ---
 
+**Mise à jour 24/01/2017 : Nous avons créé notre propre outil de tracking compatible avec Gmail, <a href="https://mailtracker.hunter.io">Mailtracker</a>. Il est entièrement gratuit et n'ajoute que la fonctionnalité de tracking à Gmail.**
+
 Il est souvent assez difficile de savoir comment réagir lorsqu'on ne reçoit pas de réponse à un email. Faut-il relancer ? Quand ? Toujours au même destinataire ?
 
 Être informé de l'ouverture des emails que vous envoyez est une donnée précieuse qui va vous permettre d'adapter votre prise de contact.
 
 ## Comment traquer les ouvertures dans Gmail ?
 
-Pour obtenir cette information, il existe de multiples extensions à ajouter à votre navigateur. Parmi les plus connues, je vous propose <a href="https://www.streak.com/" target="_blank">Streak</a> ou <a href="http://www.yesware.com/" target="_blank">Yesware</a>, qui par ailleurs présentent des fonctionnalités très intéressantes pour la vente.
+Pour obtenir cette information, il existe de multiples extensions à ajouter à votre navigateur. Parmi les plus connues, je vous propose <a href="https://www.streak.com/" target="blank">Streak</a> ou <a href="http://www.yesware.com/" target="blank">Yesware</a>, qui par ailleurs présentent des fonctionnalités très intéressantes pour la vente.
 
 Ces extensions vous permettent de connaître :
 
